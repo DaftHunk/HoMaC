@@ -733,14 +733,6 @@
   },
   {
     "tool": {
-        "item": "spartanfire:katana_fire_dragonbone"
-    },
-    "material": {
-        "item": "iceandfire:dragonbone"
-    }
-  },
-  {
-    "tool": {
         "item": "spartanfire:greatsword_fire_dragonbone"
     },
     "material": {
