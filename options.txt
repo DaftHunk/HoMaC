@@ -9,11 +9,11 @@ guiScale:0
 particles:0
 bobView:false
 anaglyph3d:false
-maxFps:60
+maxFps:120
 fboEnable:true
 difficulty:2
 fancyGraphics:true
-ao:2
+ao:1
 renderClouds:false
 resourcePacks:["Homc 1.12.2.zip"]
 incompatibleResourcePacks:[]
@@ -104,7 +104,13 @@ key_key.use_cage.desc:49
 key_key.configurator_mode.desc:47
 key_key.configurator_filter.desc:48
 key_key.configurator_path.desc:34
-key_quark.keybind.toggleAutojump:48
+key_quark.keybind.dropoff:0
+key_quark.keybind.changeHotbar:40
+key_quark.keybind.chestSort:0
+key_quark.keybind.chestDropoff:0
+key_quark.keybind.chestMerge:0
+key_quark.keybind.chestRestock:0
+key_quark.keybind.chestExtract:0
 key_quark.emote.no:73
 key_quark.emote.yes:0
 key_quark.emote.wave:79
@@ -124,34 +130,21 @@ key_quark.emote.jet:72
 key_quark.emote.exorcist:76
 key_quark.emote.zombie:0
 key_quark.keybind.lockBuilding:37
-key_quark.keybind.dropoff:0
-key_quark.keybind.changeHotbar:40
-key_quark.keybind.chestSort:0
-key_quark.keybind.chestDropoff:0
-key_quark.keybind.chestMerge:0
-key_quark.keybind.chestRestock:0
-key_quark.keybind.chestExtract:0
+key_quark.keybind.toggleAutojump:48
 key_keybind.baublesinventory:48
 key_key.conarm.toggle_helm.desc:34
 key_key.conarm.toggle_chest.desc:35
 key_key.conarm.toggle_leg.desc:36
 key_keys.baubleshud.config:73
 key_key.betterfoliage.gui:66
-key_key.death_history:22
-key_key.davincis.up:45
-key_key.davincis.down:44
-key_key.davincis.brake:0
-key_key.davincis.align:13
-key_key.davincis.decompile:43
-key_key.davincis.shipinv:37
 key_Toggle Magnetism Suppressor:0
 key_keybinds.show_wounds:35
 key_key.ftbutilities.nbt:0
 key_key.ftbutilities.trash:0
 key_key.ftbquests.quests:0
 key_key.inventorysorter.itemout:-201
-key_key.inventorysorter.sort:-98
 key_key.inventorysorter.itemin:-200
+key_key.inventorysorter.sort:-98
 key_key.openNotes:23
 key_key.toggleFoVChanges:51:SHIFT
 key_key.reloadSoundSystem:66:SHIFT
@@ -189,20 +182,19 @@ key_key.dragon_down:45
 key_key.dragon_change_view:65
 key_key.astikorcarts.desc:25
 key_Options Gui:23
-key_key.immersiveengineering.magnetEquip:22
-key_key.immersiveengineering.chemthrowerSwitch:0
 key_key.dungeontactics.rocketjump.desc:57
 key_key.dungeontactics.shieldbash.desc:56
 key_key.dungeontactics.trinket1.desc:0
 key_key.dungeontactics.trinket2.desc:45
 key_key.dungeontactics.trinket3.desc:0
 key_key.dungeontactics.trinket4.desc:47
-key_Dynamic Lights toggle:38
 key_waila.keybind.wailaconfig:82
 key_waila.keybind.wailadisplay:79
 key_waila.keybind.liquid:80
 key_waila.keybind.recipe:81
 key_waila.keybind.usage:75
+key_key.immersiveengineering.magnetEquip:22
+key_key.immersiveengineering.chemthrowerSwitch:0
 key_LevelUpToggle:38
 key_LevelUpSkills:48
 key_Mo' Bends Menu:0
@@ -213,7 +205,6 @@ key_key.toolbelt.open:19
 key_key.toolbelt.cycle.left:0
 key_key.toolbelt.cycle.right:0
 key_key.toolbelt.slot:47
-key_Open Skill GUI:21
 key_Profile GUI:210
 soundCategory_master:0.105960265
 soundCategory_music:0.0
