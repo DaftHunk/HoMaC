@@ -9,7 +9,7 @@ ofClouds:3
 ofCloudsHeight:0.0
 ofTrees:4
 ofDroppedItems:2
-ofRain:2
+ofRain:1
 ofAnimatedWater:0
 ofAnimatedLava:0
 ofAnimatedFire:true
@@ -30,13 +30,13 @@ ofRainSplash:true
 ofLagometer:false
 ofShowFps:false
 ofAutoSaveTicks:4000
-ofBetterGrass:2
+ofBetterGrass:1
 ofConnectedTextures:2
 ofWeather:true
 ofSky:true
 ofStars:true
 ofSunMoon:true
-ofVignette:2
+ofVignette:1
 ofChunkUpdates:3
 ofChunkUpdatesDynamic:true
 ofTime:0
@@ -58,9 +58,9 @@ ofEmissiveTextures:true
 ofLazyChunkLoading:false
 ofRenderRegions:false
 ofSmartAnimations:true
-ofDynamicFov:true
+ofDynamicFov:false
 ofAlternateBlocks:true
-ofDynamicLights:1
+ofDynamicLights:2
 ofScreenshotSize:1
 ofCustomEntityModels:true
 ofCustomGuis:true
@@ -68,5 +68,5 @@ ofShowGlErrors:true
 ofFullscreenMode:1920x1080
 ofFastMath:false
 ofFastRender:false
-ofTranslucentBlocks:2
+ofTranslucentBlocks:1
 key_of.key.zoom:46
