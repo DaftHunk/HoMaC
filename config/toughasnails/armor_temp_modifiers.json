@@ -1,12 +1,18 @@
 [
   {
+	"names": [
+	  "\*:\*chest\*"
+	],
+	"modifier": 1
+  },
+  {
     "names": [
       "toughasnails:jelled_slime_helmet",
       "toughasnails:jelled_slime_chestplate",
       "toughasnails:jelled_slime_leggings",
       "toughasnails:jelled_slime_boots"
     ],
-    "modifier": -1
+    "modifier": -2
   },
   {
     "names": [
@@ -15,6 +21,6 @@
       "toughasnails:wool_leggings",
       "toughasnails:wool_boots"
     ],
-    "modifier": 1
-  }
+    "modifier": 2
+  }    
 ]
