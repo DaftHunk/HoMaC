@@ -1,0 +1,8 @@
+{
+  "config": {
+    "surroundRange": 10,
+    "selectedMicrophone": "Microphone sur casque (HyperX V",
+    "keyPushToTalk": 47,
+    "screamerProtection": false
+  }
+}
