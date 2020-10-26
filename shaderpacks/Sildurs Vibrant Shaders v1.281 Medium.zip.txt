@@ -1,0 +1,6 @@
+#Mon Oct 26 18:45:15 CET 2020
+TAA=false
+waterA=1.0
+waterCB=0.0
+waterCG=0.0
+wtexblend=0.02
