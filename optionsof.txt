@@ -30,14 +30,14 @@ ofRainSplash:true
 ofLagometer:false
 ofShowFps:false
 ofAutoSaveTicks:4000
-ofBetterGrass:1
-ofConnectedTextures:1
+ofBetterGrass:2
+ofConnectedTextures:2
 ofWeather:true
 ofSky:true
 ofStars:true
 ofSunMoon:true
 ofVignette:1
-ofChunkUpdates:3
+ofChunkUpdates:1
 ofChunkUpdatesDynamic:false
 ofTime:0
 ofClearWater:true
@@ -68,5 +68,5 @@ ofShowGlErrors:false
 ofFullscreenMode:1920x1080
 ofFastMath:false
 ofFastRender:false
-ofTranslucentBlocks:1
+ofTranslucentBlocks:2
 key_of.key.zoom:46
