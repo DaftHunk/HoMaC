@@ -1,4 +1,24 @@
 config/jei/bookmarks.ini
 config/jei/worldSettings.cfg
 config/mobends.cfg
+config/forestry/common.cfg
+.mixin.out/
+Biome Bundle/
+libraries/
+llibrary/
+logs/
+mods/memory_repo/
+mods/1.12.2/
+mods/# LibLoader.jar
+crafttweaker.log
+usercache.json
+backups/
+Biome Bundle-*.zip
+world_homc-*.zip
+world_homc/
+config/splash.properties
+crash-reports/
+local/ftbutilities/backups.json
+BBOP/
+BBOP-*.zip
 config/splash.properties

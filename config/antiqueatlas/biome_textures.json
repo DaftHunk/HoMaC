@@ -1,7 +1,6 @@
 {
   "version": 2,
   "data": {
-    "aether_legacy:aether_highlands": "PLAINS",
     "biomesoplenty:alps": "MOUNTAINS_NAKED",
     "biomesoplenty:alps_foothills": "SNOW_PINES",
     "biomesoplenty:bamboo_forest": "BOP_BAMBOO",
@@ -139,10 +138,8 @@
     "minecraft:taiga_cold_hills": "SNOW_PINES_HILLS",
     "minecraft:taiga_hills": "PINES_HILLS",
     "minecraft:void": "END_VOID",
-    "netherex:arctic_abyss": "SNOW",
-    "netherex:fungi_forest": "SAVANNA",
-    "netherex:ruthless_sands": "SAVANNA",
-    "netherex:torrid_wasteland": "SAVANNA",
+    "openterraingenerator:overworld_savannaedge": "SAVANNA",
+    "openterraingenerator:overworld_webbed_forest": "FOREST",
     "plants2:crystal_forest": "FOREST",
     "thaumcraft:eerie": "PLAINS",
     "thaumcraft:eldritch": "PLAINS",
