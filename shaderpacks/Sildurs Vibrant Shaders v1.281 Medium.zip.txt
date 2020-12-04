@@ -1,7 +1,0 @@
-#Sun Nov 01 21:29:02 CET 2020
-iceRefl=false
-TAA=false
-waterA=1.0
-waterCB=0.0
-waterCG=0.0
-wtexblend=0.02
