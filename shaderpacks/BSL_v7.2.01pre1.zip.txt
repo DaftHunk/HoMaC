@@ -1,6 +1,7 @@
-#Sat Nov 28 14:11:19 CET 2020
+#Sun Dec 06 14:47:45 CET 2020
 AA=2
 BLOOM=false
 CLOUDS=false
+FOG=false
 shadowDistance=128.0
 shadowMapResolution=1024

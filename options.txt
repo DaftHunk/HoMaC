@@ -100,6 +100,15 @@ key_ir_keys.start_stop_engine:78
 key_ir_keys.bell:74
 key_ir_keys.config:181
 key_key.betterfoliage.gui:66
+key_quark.keybind.lockBuilding:37
+key_quark.keybind.dropoff:0
+key_quark.keybind.changeHotbar:40
+key_quark.keybind.chestSort:0
+key_quark.keybind.chestDropoff:0
+key_quark.keybind.chestMerge:0
+key_quark.keybind.chestRestock:0
+key_quark.keybind.chestExtract:0
+key_quark.keybind.playerSort:0
 key_quark.emote.no:0
 key_quark.emote.yes:0
 key_quark.emote.wave:0
@@ -118,15 +127,6 @@ key_quark.emote.dab:0
 key_quark.emote.jet:0
 key_quark.emote.exorcist:0
 key_quark.emote.zombie:0
-key_quark.keybind.dropoff:0
-key_quark.keybind.changeHotbar:40
-key_quark.keybind.chestSort:0
-key_quark.keybind.chestDropoff:0
-key_quark.keybind.chestMerge:0
-key_quark.keybind.chestRestock:0
-key_quark.keybind.chestExtract:0
-key_quark.keybind.playerSort:0
-key_quark.keybind.lockBuilding:37
 key_keybind.baublesinventory:0
 key_key.conarm.toggle_helm.desc:0
 key_key.conarm.toggle_chest.desc:0
@@ -145,7 +145,6 @@ key_key.togglePotionParticles:66:CONTROL
 key_Difficulty Meter - Show:0
 key_Difficulty Meter - Show Always:0
 key_Toggle StepUp:36
-key_thaumicaugmentation.key.elytra_boost:57
 key_vc.key.moveForward:44
 key_vc.key.moveBack:31
 key_vc.key.moveLeft:16
@@ -176,6 +175,7 @@ key_key.dragon_down:45
 key_key.dragon_change_view:65
 key_key.astikorcarts.desc:25
 key_key.otghud.desc:24
+key_key.carry.desc:316
 key_key.dungeontactics.rocketjump.desc:0
 key_key.dungeontactics.shieldbash.desc:0
 key_key.dungeontactics.trinket1.desc:0
@@ -199,6 +199,14 @@ key_key.toolbelt.open:19
 key_key.toolbelt.cycle.left:0
 key_key.toolbelt.cycle.right:0
 key_key.toolbelt.slot:0
+key_Speak:47
+key_Gliby's Options Menu:52
+key_WorldEdit Reference:38
+key_worldeditcuife3.key.cui.options:39
+key_worldeditcuife3.key.cui.toggle.visibility:0
+key_worldeditcuife3.key.cui.clear.selection:0
+key_worldeditcuife3.key.chunk.toggle.visibility:62
+key_worldeditcuife3.key.distance.toggle.visibility:37
 key_keybind.railcraft.loco.reverse:53:ALT
 key_keybind.railcraft.loco.faster:52:ALT
 key_keybind.railcraft.loco.slower:51:ALT
