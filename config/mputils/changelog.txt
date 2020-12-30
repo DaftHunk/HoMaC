@@ -1,3 +1,19 @@
+## Version 1.12.2.51
+### Added
+- UniversalModCore-1.12.2-forge-1.0.1
+
+### Updated
+- FTBQuests-1202.9.0.14
+- CraftTweaker2-1.12-4.1.20.607
+- randomtweaks-1.12.2-2.8.2.1
+- EnhancedVisuals_v1.3.22_mc1.12.2
+- UniDict-1.12.2-3.0.3
+- MCTImmersiveTechnology-1.12.2-1.8.91
+- ImmersiveRailroading-1.12.2-forge-1.8.0-7e0f82
+- foamfix-0.10.11-1.12.2
+- ThaumicAugmentation-1.12.2-2.0.13
+- Charm-1.12.2-1.4.1
+
 ## Version 1.12.2.50
 [FR] Cette version est une totale refonte de la génération du monde avec de nouveaux biomes, des paysages réalistes, des villages pnj améliorés avec des quêtes et des factions et une tonne de nouvelles structures à découvrir.
 

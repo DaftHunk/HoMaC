@@ -100,7 +100,6 @@ key_ir_keys.start_stop_engine:78
 key_ir_keys.bell:74
 key_ir_keys.config:181
 key_key.betterfoliage.gui:66
-key_quark.keybind.lockBuilding:37
 key_quark.keybind.dropoff:0
 key_quark.keybind.changeHotbar:40
 key_quark.keybind.chestSort:0
@@ -109,6 +108,7 @@ key_quark.keybind.chestMerge:0
 key_quark.keybind.chestRestock:0
 key_quark.keybind.chestExtract:0
 key_quark.keybind.playerSort:0
+key_quark.keybind.lockBuilding:37
 key_quark.emote.no:0
 key_quark.emote.yes:0
 key_quark.emote.wave:0
@@ -145,6 +145,7 @@ key_key.togglePotionParticles:66:CONTROL
 key_Difficulty Meter - Show:0
 key_Difficulty Meter - Show Always:0
 key_Toggle StepUp:36
+key_thaumicaugmentation.key.elytra_boost:57
 key_vc.key.moveForward:44
 key_vc.key.moveBack:31
 key_vc.key.moveLeft:16
