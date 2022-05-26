@@ -154,7 +154,7 @@ ExternalFiles {
     useBetterSpawnerConfig=false
     # Load external configuration files used for drops from the "pixelmon/drops" folder. If set to true and the "pixelmon/drops" folder does not exist, Pixelmon will create the folder and dump the existing files there.
     useExternalJSONFilesDrops=false
-    # Use external JSON files for moves
+    # Load external configuration files used for moves from the "pixelmon/moves" folder. If set to true and the "pixelmon/moves" folder does not exist, Pixelmon will create the folder and dump the existing files there.
     useExternalJSONFilesMoves=false
     # Load external configuration files used for NPCs from the "pixelmon/npcs" folder. If set to true and the "pixelmon/npcs" folder does not exist, Pixelmon will create the folder and dump the existing files there.
     useExternalJSONFilesNPCs=false
@@ -214,11 +214,11 @@ General {
     averageLureExpiryTicks=17920
     # Award photos to players who defeat wild Pokémon.
     awardPhotos=false
-    # The type of AI to use for boss Pokemon in battle.
+    # The type of AI to use for boss Pokémon in battle.  | 1: Choose moves randomly. 2: Choose the most damaging move possible (with type match-ups), ignoring status moves. 3: Use both offensive and status moves.
     battleAIBoss=2
-    # The type of AI to use for NPC Trainers in battle.
+    # The type of AI to use for NPC Trainers in battle.  | 1: Choose moves randomly. 2: Choose the most damaging move possible (with type match-ups), ignoring status moves. 3: Use both offensive and status moves. 4: Use all moves intelligently and switch out when advantageous.
     battleAITrainer=3
-    # The type of AI to use for wild Pokemon in battle.
+    # The type of AI to use for wild Pokémon in battle.  | 1: Choose moves randomly. 2: Choose the most damaging move possible (with type match-ups), ignoring status moves. 3: Use both offensive and status moves.
     battleAIWild=1
     # Volume of the music that is played during battles.
     battleMusicVolume=1
@@ -274,7 +274,7 @@ General {
     maxLevel=100
     # The maximum plants allowed within a chunk. Applies to Apricorns and Berries.
     maximumPlants=32
-    # The amount of moves a move Tutor will have.
+    # The amount of moves a move Tutor will have
     movesPerTutor=20
     # Allow each player to take multiple photos of the same Pokémon.
     multiplePhotosOfSamePokemon=true
@@ -724,7 +724,7 @@ Spawning {
     transformToDittoOnCatch=0.001
     # If true, Pokémon will spawn with the most recent moves in their level-up movepools. If false, Pokémon will spawn with random moves from their level-up movepools.
     useRecentLevelMoves=false
-    # The vertical radius of the areas randomly selected near the player to do spawning in. Lower for better performance but less reliable spawning. Larger than horizontal to better match player behaviour.
+    # The vertical radius of the areas randomly selected near the player to do spawning in. Lower for better performance but less reliable spawning. Larger than horizontal to better match player behavior.
     verticalSliceRadius=25
     # How many ticks 'lead' the player tracking spawner will give players based on their vertical motion. Typically best as zero due to the interference jumping can cause.
     verticalTrackFactor=0
