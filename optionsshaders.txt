@@ -1,5 +1,5 @@
-#Sat Jan 02 15:17:52 CET 2021
-shaderPack=(internal)
+#Sun May 15 14:25:08 CEST 2022
+shaderPack=Sildur's+Vibrant+Shaders+v1.32+High.zip
 antialiasingLevel=0
 normalMapEnabled=true
 specularMapEnabled=true
@@ -8,7 +8,7 @@ shadowResMul=1.0
 handDepthMul=0.125
 cloudShadow=false
 oldHandLight=default
-oldLighting=false
+oldLighting=default
 tweakBlockDamage=false
 shadowClipFrustrum=true
 TexMinFilB=0
