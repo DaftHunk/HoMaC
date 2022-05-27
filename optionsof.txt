@@ -1,4 +1,4 @@
-ofFogType:2
+ofFogType:3
 ofFogStart:0.8
 ofMipmapType:0
 ofOcclusionFancy:false
@@ -53,11 +53,11 @@ ofCustomColors:true
 ofCustomItems:true
 ofCustomSky:true
 ofShowCapes:true
-ofNaturalTextures:false
+ofNaturalTextures:true
 ofEmissiveTextures:true
 ofLazyChunkLoading:false
 ofRenderRegions:false
-ofSmartAnimations:false
+ofSmartAnimations:true
 ofDynamicFov:false
 ofAlternateBlocks:true
 ofDynamicLights:2

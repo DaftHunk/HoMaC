@@ -12,7 +12,7 @@
         "meta": 32767
       },
       "input_fluid": {
-        "comment": "Water",
+        "comment": "Eau",
         "name": "water",
         "amount": 1000
       },
@@ -24,7 +24,7 @@
       "residue": {
         "pomace": 0.0,
         "ore": null,
-        "comment": "Bone Meal",
+        "comment": "Poudre d\u0027os",
         "mod_id": "minecraft",
         "name": "dye",
         "amount": 1,
@@ -37,7 +37,7 @@
       "comment": "",
       "item": {
         "ore": null,
-        "comment": "Sugar",
+        "comment": "Sucre",
         "mod_id": "minecraft",
         "name": "sugar",
         "amount": 1,
@@ -190,7 +190,7 @@
       "residue": {
         "pomace": 0.3,
         "ore": null,
-        "comment": "Bone Meal",
+        "comment": "Poudre d\u0027os",
         "mod_id": "minecraft",
         "name": "dye",
         "amount": 1,
@@ -222,7 +222,7 @@
       "residue": {
         "pomace": 0.3,
         "ore": null,
-        "comment": "Bone Meal",
+        "comment": "Poudre d\u0027os",
         "mod_id": "minecraft",
         "name": "dye",
         "amount": 1,
@@ -254,7 +254,7 @@
       "residue": {
         "pomace": 0.3,
         "ore": null,
-        "comment": "Bone Meal",
+        "comment": "Poudre d\u0027os",
         "mod_id": "minecraft",
         "name": "dye",
         "amount": 1,
@@ -733,7 +733,7 @@
         "meta": 0
       },
       "input_fluid": {
-        "comment": "Water",
+        "comment": "Eau",
         "name": "water",
         "amount": 200
       },
@@ -758,7 +758,7 @@
       "comment": "",
       "item": {
         "ore": null,
-        "comment": "Mushroom",
+        "comment": "Champignon",
         "mod_id": "minecraft",
         "name": "brown_mushroom",
         "amount": 1,
@@ -777,7 +777,7 @@
       "residue": {
         "pomace": 0.0,
         "ore": null,
-        "comment": "Bone Meal",
+        "comment": "Poudre d\u0027os",
         "mod_id": "minecraft",
         "name": "dye",
         "amount": 1,
@@ -790,7 +790,7 @@
       "comment": "",
       "item": {
         "ore": null,
-        "comment": "Mushroom",
+        "comment": "Champignon",
         "mod_id": "minecraft",
         "name": "red_mushroom",
         "amount": 1,
@@ -809,7 +809,7 @@
       "residue": {
         "pomace": 0.0,
         "ore": null,
-        "comment": "Bone Meal",
+        "comment": "Poudre d\u0027os",
         "mod_id": "minecraft",
         "name": "dye",
         "amount": 1,
@@ -948,7 +948,7 @@
         "meta": 32767
       },
       "input_fluid": {
-        "comment": "Water",
+        "comment": "Eau",
         "name": "water",
         "amount": 40
       },
@@ -960,7 +960,7 @@
       "residue": {
         "pomace": 0.3,
         "ore": null,
-        "comment": "Bone Meal",
+        "comment": "Poudre d\u0027os",
         "mod_id": "minecraft",
         "name": "dye",
         "amount": 1,
@@ -992,7 +992,7 @@
       "residue": {
         "pomace": 0.0,
         "ore": null,
-        "comment": "Bone Meal",
+        "comment": "Poudre d\u0027os",
         "mod_id": "minecraft",
         "name": "dye",
         "amount": 1,
@@ -1143,7 +1143,7 @@
       "residue": {
         "pomace": 0.0,
         "ore": null,
-        "comment": "Bone Meal",
+        "comment": "Poudre d\u0027os",
         "mod_id": "minecraft",
         "name": "dye",
         "amount": 1,
