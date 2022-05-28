@@ -88,6 +88,7 @@ key_key.hotbar.9:10
 key_of.key.zoom:46
 key_Change Caster Focus:33
 key_Misc Caster Toggle:34
+key_quark.keybind.lockBuilding:0
 key_quark.keybind.toggleAutojump:0
 key_quark.keybind.dropoff:0
 key_quark.keybind.changeHotbar:40
@@ -97,7 +98,6 @@ key_quark.keybind.chestMerge:0
 key_quark.keybind.chestRestock:0
 key_quark.keybind.chestExtract:0
 key_quark.keybind.playerSort:0
-key_quark.keybind.lockBuilding:0
 key_quark.emote.no:0
 key_quark.emote.yes:0
 key_quark.emote.wave:0
@@ -163,18 +163,6 @@ key_key.jei.bookmark:30
 key_key.jei.toggleBookmarkOverlay:0
 key_key.astikorcarts.desc:19
 key_key.carry.desc:42
-key_key.boththrow.desc:-99
-key_key.leftthrow.desc:0
-key_key.rightthrow.desc:0
-key_key.motoronoff.desc:42
-key_key.jumpanddetach.desc:57
-key_key.slow.desc:42
-key_key.climb.desc:42
-key_key.climbup.desc:0
-key_key.climbdown.desc:0
-key_key.enderlaunch.desc:-100
-key_key.rocket.desc:-100
-key_key.slide.desc:42
 key_waila.keybind.wailaconfig:82
 key_waila.keybind.wailadisplay:79
 key_waila.keybind.liquid:80
