@@ -100,7 +100,7 @@ Breeding {
     # Modificateur de taux de reproduction appliqué si le Charme Ovale est équipé.
     ovalCharmMultiplier=0.5
     # Whether alolan and galarian forms are granted to an egg if they are in a certain dimension.
-    regionalFormsByDimension=true
+    regionalFormsByDimension=false
     # Fixe le nombre de pas par cycle d'œuf. Les œufs éclosent plus rapidement avec un nombre bas.
     stepsPerEggCycle=255
     # Contrôle la vitesse de reproduction en fonction des blocs posés dans la zone. Si désactivé, la vitesse de reproduction sera de x1.0.
@@ -626,7 +626,7 @@ Spawning {
         1
     ]
     # Si un Boss doit Méga-Évoluer s'il le peut.
-    bossesAlwaysMegaIfPossible=true
+    bossesAlwaysMegaIfPossible=false
     # Pokémon qui peuvent se transformer en Métamorph lors de la capture.
     canTransformToDittoOnCatch=[
         Pidgey,
@@ -772,5 +772,5 @@ Storage {
     # L'intervalle en secondes entre les sauvegardes asynchronisées.
     asyncInterval=60
     # Activer la sauvegarde asynchronisée des données d'équipe et de PC. (Serveur seulement.)
-    useAsyncSaving=false
+    useAsyncSaving=true
 }
