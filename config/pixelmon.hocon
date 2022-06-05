@@ -187,7 +187,7 @@ General {
     # Réglage côté serveur, détermine si les joueurs peuvent utiliser le Ciseau.
     allowChisels=true
     # Si des Pokemon chromatiques qui ne sont pas disponibles dans Pokémon sont disponibles ici ou non.
-    allowIllegalShinies=true
+    allowIllegalShinies=false
     # Autorise le don du charme Ovale lors de la complétion du Pokédex Régional.
     allowOvalCharmFromPokedex=true
     # Permet au joueur de planter des Noigrumes et des Baies dans le sol.
@@ -281,7 +281,13 @@ General {
     # Si activé, l'utilisation d'éditeurs de PNJ est reservée aux opérateurs. Si désactivé, il faut être en mode créatif.
     npcEditorOpOnly=true
     # Quelles dimensions utilisent les mécaniques de la génération 7 par défaut. Sinon, elles utiliseront les mécaniques de la génération 8.
-    oldGenDimensions=[]
+    oldGenDimensions=[
+        "-1",
+        "0",
+        "1",
+        "72",
+        "73"
+    ]
     # Les ouleurs des minerais pour le skill Détection de minerais. Le format est block;color(hex);patternNumber
     oreColors=[
         "minecraft:iron_ore;E2C0AA;0",
@@ -312,7 +318,7 @@ General {
     # If true, must be opped to use the Quest Editor. If false, must be in Creative mode.
     questEditorOpOnly=true
     # Whether which battle gimmick can be used is determined purely by band chosen.
-    relaxedBattleGimmickRules=true
+    relaxedBattleGimmickRules=false
     # Whether Legendary bird shrines can be used multiple times. 0 = Once, 1 = Once per player, 2 = Once per mc day, 3 = Once per day, 4 = Unlimited
     shrineEncounterMode=0
     # Permet l'apparition aléatoire de sanctuaires d'oiseaux légendaires dans le monde.
@@ -448,7 +454,7 @@ PokeLoot {
 # Plusieurs types de paramètres en lien avec le Pokérus.
 Pokerus {
     # Activer le Pokérus. Si désactivé, empêche l'apparition, la croissance et la propagation du virus.
-    pkrsEnabled=true
+    pkrsEnabled=false
     # Informer les joueurs lorsque leur Pokémon est atteint du Pokérus.
     pkrsInformPlayers=true
     # Ratio d'apparition du Pokérus (1/x). (0 pour désactiver)
