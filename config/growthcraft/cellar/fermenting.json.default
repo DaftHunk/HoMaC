@@ -4,308 +4,6 @@
     {
       "comment": "",
       "item": {
-        "ore": null,
-        "comment": "Nether Wart",
-        "mod_id": "minecraft",
-        "name": "nether_wart",
-        "amount": 1,
-        "meta": 0
-      },
-      "input_fluid": {
-        "name": null,
-        "names": [
-          "fluid_booze_sake_mash"
-        ],
-        "inclusion_tags": [],
-        "exclusion_tags": [],
-        "comment": "",
-        "amount": 1000
-      },
-      "output_fluid": {
-        "comment": "Sake",
-        "name": "fluid_booze_sake_fermented",
-        "amount": 1000
-      },
-      "time": 15840
-    },
-    {
-      "comment": "",
-      "item": {
-        "ore": null,
-        "comment": "Glowstone Dust",
-        "mod_id": "minecraft",
-        "name": "glowstone_dust",
-        "amount": 1,
-        "meta": 0
-      },
-      "input_fluid": {
-        "name": null,
-        "names": [
-          "fluid_booze_sake_fermented"
-        ],
-        "inclusion_tags": [],
-        "exclusion_tags": [],
-        "comment": "",
-        "amount": 1000
-      },
-      "output_fluid": {
-        "comment": "Sake",
-        "name": "fluid_booze_sake_potent",
-        "amount": 1000
-      },
-      "time": 24000
-    },
-    {
-      "comment": "",
-      "item": {
-        "ore": null,
-        "comment": "Redstone",
-        "mod_id": "minecraft",
-        "name": "redstone",
-        "amount": 1,
-        "meta": 0
-      },
-      "input_fluid": {
-        "name": null,
-        "names": [
-          "fluid_booze_sake_fermented"
-        ],
-        "inclusion_tags": [],
-        "exclusion_tags": [],
-        "comment": "",
-        "amount": 1000
-      },
-      "output_fluid": {
-        "comment": "Sake",
-        "name": "fluid_booze_sake_extended",
-        "amount": 1000
-      },
-      "time": 24000
-    },
-    {
-      "comment": "",
-      "item": {
-        "ore": null,
-        "comment": "Redstone",
-        "mod_id": "minecraft",
-        "name": "redstone",
-        "amount": 1,
-        "meta": 0
-      },
-      "input_fluid": {
-        "name": null,
-        "names": [
-          "fluid_booze_sake_extended"
-        ],
-        "inclusion_tags": [],
-        "exclusion_tags": [],
-        "comment": "",
-        "amount": 1000
-      },
-      "output_fluid": {
-        "comment": "Sake",
-        "name": "fluid_booze_sake_hyperextended",
-        "amount": 1000
-      },
-      "time": 24000
-    },
-    {
-      "comment": "",
-      "item": {
-        "ore": null,
-        "comment": "Redstone",
-        "mod_id": "minecraft",
-        "name": "redstone",
-        "amount": 1,
-        "meta": 0
-      },
-      "input_fluid": {
-        "name": null,
-        "names": [
-          "fluid_booze_sake_potent"
-        ],
-        "inclusion_tags": [],
-        "exclusion_tags": [],
-        "comment": "",
-        "amount": 1000
-      },
-      "output_fluid": {
-        "comment": "Sake",
-        "name": "fluid_booze_sake_potent_extended",
-        "amount": 1000
-      },
-      "time": 24000
-    },
-    {
-      "comment": "",
-      "item": {
-        "ore": "yeastEthereal",
-        "comment": "",
-        "mod_id": null,
-        "name": null,
-        "amount": 1,
-        "meta": 32767
-      },
-      "input_fluid": {
-        "name": null,
-        "names": [
-          "fluid_booze_sake_potent_extended"
-        ],
-        "inclusion_tags": [],
-        "exclusion_tags": [],
-        "comment": "",
-        "amount": 1000
-      },
-      "output_fluid": {
-        "comment": "Sake",
-        "name": "fluid_booze_sake_magical",
-        "amount": 1000
-      },
-      "time": 24000
-    },
-    {
-      "comment": "",
-      "item": null,
-      "input_fluid": {
-        "name": null,
-        "names": [
-          "fluid_booze_sake_fermented"
-        ],
-        "inclusion_tags": [],
-        "exclusion_tags": [],
-        "comment": "",
-        "amount": 1000
-      },
-      "output_fluid": {
-        "comment": "Sake",
-        "name": "fluid_booze_sake_poisoned",
-        "amount": 1000
-      },
-      "time": 24000
-    },
-    {
-      "comment": "",
-      "item": null,
-      "input_fluid": {
-        "name": null,
-        "names": [
-          "fluid_booze_sake_potent"
-        ],
-        "inclusion_tags": [],
-        "exclusion_tags": [],
-        "comment": "",
-        "amount": 1000
-      },
-      "output_fluid": {
-        "comment": "Sake",
-        "name": "fluid_booze_sake_poisoned",
-        "amount": 1000
-      },
-      "time": 24000
-    },
-    {
-      "comment": "",
-      "item": null,
-      "input_fluid": {
-        "name": null,
-        "names": [
-          "fluid_booze_sake_extended"
-        ],
-        "inclusion_tags": [],
-        "exclusion_tags": [],
-        "comment": "",
-        "amount": 1000
-      },
-      "output_fluid": {
-        "comment": "Sake",
-        "name": "fluid_booze_sake_poisoned",
-        "amount": 1000
-      },
-      "time": 24000
-    },
-    {
-      "comment": "",
-      "item": null,
-      "input_fluid": {
-        "name": null,
-        "names": [
-          "fluid_booze_sake_hyperextended"
-        ],
-        "inclusion_tags": [],
-        "exclusion_tags": [],
-        "comment": "",
-        "amount": 1000
-      },
-      "output_fluid": {
-        "comment": "Sake",
-        "name": "fluid_booze_sake_poisoned",
-        "amount": 1000
-      },
-      "time": 24000
-    },
-    {
-      "comment": "",
-      "item": null,
-      "input_fluid": {
-        "name": null,
-        "names": [
-          "fluid_booze_sake_potent_extended"
-        ],
-        "inclusion_tags": [],
-        "exclusion_tags": [],
-        "comment": "",
-        "amount": 1000
-      },
-      "output_fluid": {
-        "comment": "Sake",
-        "name": "fluid_booze_sake_poisoned",
-        "amount": 1000
-      },
-      "time": 24000
-    },
-    {
-      "comment": "",
-      "item": null,
-      "input_fluid": {
-        "name": null,
-        "names": [
-          "fluid_booze_sake_potent_hyperextended"
-        ],
-        "inclusion_tags": [],
-        "exclusion_tags": [],
-        "comment": "",
-        "amount": 1000
-      },
-      "output_fluid": {
-        "comment": "Sake",
-        "name": "fluid_booze_sake_poisoned",
-        "amount": 1000
-      },
-      "time": 24000
-    },
-    {
-      "comment": "",
-      "item": null,
-      "input_fluid": {
-        "name": null,
-        "names": [
-          "fluid_booze_sake_poisoned"
-        ],
-        "inclusion_tags": [],
-        "exclusion_tags": [],
-        "comment": "",
-        "amount": 1000
-      },
-      "output_fluid": {
-        "comment": "Sake",
-        "name": "fluid_booze_sake_poisoned",
-        "amount": 1000
-      },
-      "time": 24000
-    },
-    {
-      "comment": "",
-      "item": {
         "ore": "yeastBrewers",
         "comment": "",
         "mod_id": null,
@@ -334,7 +32,7 @@
       "comment": "",
       "item": {
         "ore": null,
-        "comment": "Nether Wart",
+        "comment": "Verrues du Nether",
         "mod_id": "minecraft",
         "name": "nether_wart",
         "amount": 1,
@@ -868,1819 +566,6 @@
       "input_fluid": {
         "name": null,
         "names": [
-          "applejuice"
-        ],
-        "inclusion_tags": [],
-        "exclusion_tags": [],
-        "comment": "",
-        "amount": 1
-      },
-      "output_fluid": {
-        "comment": "Apple Cider",
-        "name": "fluid_booze_apple_cider_fermented",
-        "amount": 1
-      },
-      "time": 144000
-    },
-    {
-      "comment": "",
-      "item": {
-        "ore": null,
-        "comment": "Nether Wart",
-        "mod_id": "minecraft",
-        "name": "nether_wart",
-        "amount": 1,
-        "meta": 0
-      },
-      "input_fluid": {
-        "name": null,
-        "names": [
-          "applejuice"
-        ],
-        "inclusion_tags": [],
-        "exclusion_tags": [],
-        "comment": "",
-        "amount": 1
-      },
-      "output_fluid": {
-        "comment": "Apple Cider",
-        "name": "fluid_booze_apple_cider_fermented",
-        "amount": 1
-      },
-      "time": 95040
-    },
-    {
-      "comment": "",
-      "item": {
-        "ore": "dustGlowstone",
-        "comment": "",
-        "mod_id": null,
-        "name": null,
-        "amount": 1,
-        "meta": 32767
-      },
-      "input_fluid": {
-        "name": null,
-        "names": [
-          "cider"
-        ],
-        "inclusion_tags": [],
-        "exclusion_tags": [],
-        "comment": "",
-        "amount": 1
-      },
-      "output_fluid": {
-        "comment": "Apple Cider",
-        "name": "fluid_booze_apple_cider_potent",
-        "amount": 1
-      },
-      "time": 144000
-    },
-    {
-      "comment": "",
-      "item": {
-        "ore": "dustRedstone",
-        "comment": "",
-        "mod_id": null,
-        "name": null,
-        "amount": 1,
-        "meta": 32767
-      },
-      "input_fluid": {
-        "name": null,
-        "names": [
-          "cider"
-        ],
-        "inclusion_tags": [],
-        "exclusion_tags": [],
-        "comment": "",
-        "amount": 1
-      },
-      "output_fluid": {
-        "comment": "Apple Cider",
-        "name": "fluid_booze_apple_cider_extended",
-        "amount": 1
-      },
-      "time": 144000
-    },
-    {
-      "comment": "",
-      "item": {
-        "ore": "yeastPoison",
-        "comment": "",
-        "mod_id": null,
-        "name": null,
-        "amount": 1,
-        "meta": 32767
-      },
-      "input_fluid": {
-        "name": null,
-        "names": [
-          "cider"
-        ],
-        "inclusion_tags": [],
-        "exclusion_tags": [],
-        "comment": "",
-        "amount": 1
-      },
-      "output_fluid": {
-        "comment": "Apple Cider",
-        "name": "fluid_booze_apple_cider_poisoned",
-        "amount": 1
-      },
-      "time": 144000
-    },
-    {
-      "comment": "",
-      "item": {
-        "ore": "yeastBrewers",
-        "comment": "",
-        "mod_id": null,
-        "name": null,
-        "amount": 1,
-        "meta": 32767
-      },
-      "input_fluid": {
-        "name": null,
-        "names": [
-          "fluid_booze_hopale_unhopped"
-        ],
-        "inclusion_tags": [],
-        "exclusion_tags": [],
-        "comment": "",
-        "amount": 1
-      },
-      "output_fluid": {
-        "comment": "Ale",
-        "name": "fluid_booze_hopale_normal",
-        "amount": 1
-      },
-      "time": 24000
-    },
-    {
-      "comment": "",
-      "item": {
-        "ore": null,
-        "comment": "Nether Wart",
-        "mod_id": "minecraft",
-        "name": "nether_wart",
-        "amount": 1,
-        "meta": 0
-      },
-      "input_fluid": {
-        "name": null,
-        "names": [
-          "fluid_booze_hopale_unhopped"
-        ],
-        "inclusion_tags": [],
-        "exclusion_tags": [],
-        "comment": "",
-        "amount": 1
-      },
-      "output_fluid": {
-        "comment": "Ale",
-        "name": "fluid_booze_hopale_normal",
-        "amount": 1
-      },
-      "time": 15840
-    },
-    {
-      "comment": "",
-      "item": {
-        "ore": "dustGlowstone",
-        "comment": "",
-        "mod_id": null,
-        "name": null,
-        "amount": 1,
-        "meta": 32767
-      },
-      "input_fluid": {
-        "name": null,
-        "names": [
-          "fluid_booze_hopale_normal"
-        ],
-        "inclusion_tags": [],
-        "exclusion_tags": [],
-        "comment": "",
-        "amount": 1
-      },
-      "output_fluid": {
-        "comment": "Ale",
-        "name": "fluid_booze_hopale_potent",
-        "amount": 1
-      },
-      "time": 24000
-    },
-    {
-      "comment": "",
-      "item": {
-        "ore": "dustGlowstone",
-        "comment": "",
-        "mod_id": null,
-        "name": null,
-        "amount": 1,
-        "meta": 32767
-      },
-      "input_fluid": {
-        "name": null,
-        "names": [
-          "fluid_booze_hopale_extended"
-        ],
-        "inclusion_tags": [],
-        "exclusion_tags": [],
-        "comment": "",
-        "amount": 1
-      },
-      "output_fluid": {
-        "comment": "Ale",
-        "name": "fluid_booze_hopale_potent",
-        "amount": 1
-      },
-      "time": 24000
-    },
-    {
-      "comment": "",
-      "item": {
-        "ore": "dustRedstone",
-        "comment": "",
-        "mod_id": null,
-        "name": null,
-        "amount": 1,
-        "meta": 32767
-      },
-      "input_fluid": {
-        "name": null,
-        "names": [
-          "fluid_booze_hopale_normal"
-        ],
-        "inclusion_tags": [],
-        "exclusion_tags": [],
-        "comment": "",
-        "amount": 1
-      },
-      "output_fluid": {
-        "comment": "Ale",
-        "name": "fluid_booze_hopale_extended",
-        "amount": 1
-      },
-      "time": 24000
-    },
-    {
-      "comment": "",
-      "item": {
-        "ore": "dustRedstone",
-        "comment": "",
-        "mod_id": null,
-        "name": null,
-        "amount": 1,
-        "meta": 32767
-      },
-      "input_fluid": {
-        "name": null,
-        "names": [
-          "fluid_booze_hopale_potent"
-        ],
-        "inclusion_tags": [],
-        "exclusion_tags": [],
-        "comment": "",
-        "amount": 1
-      },
-      "output_fluid": {
-        "comment": "Ale",
-        "name": "fluid_booze_hopale_extended",
-        "amount": 1
-      },
-      "time": 24000
-    },
-    {
-      "comment": "",
-      "item": {
-        "ore": "yeastEthereal",
-        "comment": "",
-        "mod_id": null,
-        "name": null,
-        "amount": 1,
-        "meta": 32767
-      },
-      "input_fluid": {
-        "name": null,
-        "names": [
-          "fluid_booze_hopale_potent"
-        ],
-        "inclusion_tags": [],
-        "exclusion_tags": [],
-        "comment": "",
-        "amount": 1
-      },
-      "output_fluid": {
-        "comment": "Ale",
-        "name": "fluid_booze_hopale_hyperextended",
-        "amount": 1
-      },
-      "time": 24000
-    },
-    {
-      "comment": "",
-      "item": {
-        "ore": "yeastEthereal",
-        "comment": "",
-        "mod_id": null,
-        "name": null,
-        "amount": 1,
-        "meta": 32767
-      },
-      "input_fluid": {
-        "name": null,
-        "names": [
-          "fluid_booze_hopale_extended"
-        ],
-        "inclusion_tags": [],
-        "exclusion_tags": [],
-        "comment": "",
-        "amount": 1
-      },
-      "output_fluid": {
-        "comment": "Ale",
-        "name": "fluid_booze_hopale_hyperextended",
-        "amount": 1
-      },
-      "time": 24000
-    },
-    {
-      "comment": "",
-      "item": {
-        "ore": "yeastLager",
-        "comment": "",
-        "mod_id": null,
-        "name": null,
-        "amount": 1,
-        "meta": 32767
-      },
-      "input_fluid": {
-        "name": null,
-        "names": [
-          "fluid_booze_hopale_hyperextended"
-        ],
-        "inclusion_tags": [],
-        "exclusion_tags": [],
-        "comment": "",
-        "amount": 1
-      },
-      "output_fluid": {
-        "comment": "Ale",
-        "name": "fluid_booze_hopale_lager",
-        "amount": 1
-      },
-      "time": 24000
-    },
-    {
-      "comment": "",
-      "item": {
-        "ore": "yeastOrigin",
-        "comment": "",
-        "mod_id": null,
-        "name": null,
-        "amount": 1,
-        "meta": 32767
-      },
-      "input_fluid": {
-        "name": null,
-        "names": [
-          "fluid_booze_hopale_potent"
-        ],
-        "inclusion_tags": [],
-        "exclusion_tags": [],
-        "comment": "",
-        "amount": 1
-      },
-      "output_fluid": {
-        "comment": "Ale",
-        "name": "fluid_booze_hopale_intoxicated",
-        "amount": 1
-      },
-      "time": 24000
-    },
-    {
-      "comment": "",
-      "item": {
-        "ore": "yeastOrigin",
-        "comment": "",
-        "mod_id": null,
-        "name": null,
-        "amount": 1,
-        "meta": 32767
-      },
-      "input_fluid": {
-        "name": null,
-        "names": [
-          "fluid_booze_hopale_extended"
-        ],
-        "inclusion_tags": [],
-        "exclusion_tags": [],
-        "comment": "",
-        "amount": 1
-      },
-      "output_fluid": {
-        "comment": "Ale",
-        "name": "fluid_booze_hopale_intoxicated",
-        "amount": 1
-      },
-      "time": 24000
-    },
-    {
-      "comment": "",
-      "item": {
-        "ore": "yeastPoison",
-        "comment": "",
-        "mod_id": null,
-        "name": null,
-        "amount": 1,
-        "meta": 32767
-      },
-      "input_fluid": {
-        "name": null,
-        "names": [
-          "fluid_booze_hopale_normal"
-        ],
-        "inclusion_tags": [],
-        "exclusion_tags": [],
-        "comment": "",
-        "amount": 1
-      },
-      "output_fluid": {
-        "comment": "Ale",
-        "name": "fluid_booze_hopale_poisoned",
-        "amount": 1
-      },
-      "time": 24000
-    },
-    {
-      "comment": "",
-      "item": null,
-      "input_fluid": {
-        "name": null,
-        "names": [
-          "fluid_booze_hopale_normal"
-        ],
-        "inclusion_tags": [],
-        "exclusion_tags": [],
-        "comment": "",
-        "amount": 1
-      },
-      "output_fluid": {
-        "comment": "Ale",
-        "name": "fluid_booze_hopale_poisoned",
-        "amount": 1
-      },
-      "time": 24000
-    },
-    {
-      "comment": "",
-      "item": {
-        "ore": "yeastPoison",
-        "comment": "",
-        "mod_id": null,
-        "name": null,
-        "amount": 1,
-        "meta": 32767
-      },
-      "input_fluid": {
-        "name": null,
-        "names": [
-          "fluid_booze_hopale_potent"
-        ],
-        "inclusion_tags": [],
-        "exclusion_tags": [],
-        "comment": "",
-        "amount": 1
-      },
-      "output_fluid": {
-        "comment": "Ale",
-        "name": "fluid_booze_hopale_poisoned",
-        "amount": 1
-      },
-      "time": 24000
-    },
-    {
-      "comment": "",
-      "item": null,
-      "input_fluid": {
-        "name": null,
-        "names": [
-          "fluid_booze_hopale_potent"
-        ],
-        "inclusion_tags": [],
-        "exclusion_tags": [],
-        "comment": "",
-        "amount": 1
-      },
-      "output_fluid": {
-        "comment": "Ale",
-        "name": "fluid_booze_hopale_poisoned",
-        "amount": 1
-      },
-      "time": 24000
-    },
-    {
-      "comment": "",
-      "item": {
-        "ore": "yeastPoison",
-        "comment": "",
-        "mod_id": null,
-        "name": null,
-        "amount": 1,
-        "meta": 32767
-      },
-      "input_fluid": {
-        "name": null,
-        "names": [
-          "fluid_booze_hopale_extended"
-        ],
-        "inclusion_tags": [],
-        "exclusion_tags": [],
-        "comment": "",
-        "amount": 1
-      },
-      "output_fluid": {
-        "comment": "Ale",
-        "name": "fluid_booze_hopale_poisoned",
-        "amount": 1
-      },
-      "time": 24000
-    },
-    {
-      "comment": "",
-      "item": null,
-      "input_fluid": {
-        "name": null,
-        "names": [
-          "fluid_booze_hopale_extended"
-        ],
-        "inclusion_tags": [],
-        "exclusion_tags": [],
-        "comment": "",
-        "amount": 1
-      },
-      "output_fluid": {
-        "comment": "Ale",
-        "name": "fluid_booze_hopale_poisoned",
-        "amount": 1
-      },
-      "time": 24000
-    },
-    {
-      "comment": "",
-      "item": {
-        "ore": "yeastPoison",
-        "comment": "",
-        "mod_id": null,
-        "name": null,
-        "amount": 1,
-        "meta": 32767
-      },
-      "input_fluid": {
-        "name": null,
-        "names": [
-          "fluid_booze_hopale_hyperextended"
-        ],
-        "inclusion_tags": [],
-        "exclusion_tags": [],
-        "comment": "",
-        "amount": 1
-      },
-      "output_fluid": {
-        "comment": "Ale",
-        "name": "fluid_booze_hopale_poisoned",
-        "amount": 1
-      },
-      "time": 24000
-    },
-    {
-      "comment": "",
-      "item": null,
-      "input_fluid": {
-        "name": null,
-        "names": [
-          "fluid_booze_hopale_hyperextended"
-        ],
-        "inclusion_tags": [],
-        "exclusion_tags": [],
-        "comment": "",
-        "amount": 1
-      },
-      "output_fluid": {
-        "comment": "Ale",
-        "name": "fluid_booze_hopale_poisoned",
-        "amount": 1
-      },
-      "time": 24000
-    },
-    {
-      "comment": "",
-      "item": {
-        "ore": "yeastPoison",
-        "comment": "",
-        "mod_id": null,
-        "name": null,
-        "amount": 1,
-        "meta": 32767
-      },
-      "input_fluid": {
-        "name": null,
-        "names": [
-          "fluid_booze_hopale_lager"
-        ],
-        "inclusion_tags": [],
-        "exclusion_tags": [],
-        "comment": "",
-        "amount": 1
-      },
-      "output_fluid": {
-        "comment": "Ale",
-        "name": "fluid_booze_hopale_poisoned",
-        "amount": 1
-      },
-      "time": 24000
-    },
-    {
-      "comment": "",
-      "item": null,
-      "input_fluid": {
-        "name": null,
-        "names": [
-          "fluid_booze_hopale_lager"
-        ],
-        "inclusion_tags": [],
-        "exclusion_tags": [],
-        "comment": "",
-        "amount": 1
-      },
-      "output_fluid": {
-        "comment": "Ale",
-        "name": "fluid_booze_hopale_poisoned",
-        "amount": 1
-      },
-      "time": 24000
-    },
-    {
-      "comment": "",
-      "item": {
-        "ore": "yeastPoison",
-        "comment": "",
-        "mod_id": null,
-        "name": null,
-        "amount": 1,
-        "meta": 32767
-      },
-      "input_fluid": {
-        "name": null,
-        "names": [
-          "fluid_booze_hopale_intoxicated"
-        ],
-        "inclusion_tags": [],
-        "exclusion_tags": [],
-        "comment": "",
-        "amount": 1
-      },
-      "output_fluid": {
-        "comment": "Ale",
-        "name": "fluid_booze_hopale_poisoned",
-        "amount": 1
-      },
-      "time": 24000
-    },
-    {
-      "comment": "",
-      "item": null,
-      "input_fluid": {
-        "name": null,
-        "names": [
-          "fluid_booze_hopale_intoxicated"
-        ],
-        "inclusion_tags": [],
-        "exclusion_tags": [],
-        "comment": "",
-        "amount": 1
-      },
-      "output_fluid": {
-        "comment": "Ale",
-        "name": "fluid_booze_hopale_poisoned",
-        "amount": 1
-      },
-      "time": 24000
-    },
-    {
-      "comment": "",
-      "item": null,
-      "input_fluid": {
-        "name": null,
-        "names": [
-          "fluid_booze_hopale_poisoned"
-        ],
-        "inclusion_tags": [],
-        "exclusion_tags": [],
-        "comment": "",
-        "amount": 1
-      },
-      "output_fluid": {
-        "comment": "Ale",
-        "name": "fluid_booze_hopale_poisoned",
-        "amount": 1
-      },
-      "time": 24000
-    },
-    {
-      "comment": "",
-      "item": {
-        "ore": "yeastBrewers",
-        "comment": "",
-        "mod_id": null,
-        "name": null,
-        "amount": 1,
-        "meta": 32767
-      },
-      "input_fluid": {
-        "name": null,
-        "names": [
-          "fluid_booze_lager_young"
-        ],
-        "inclusion_tags": [],
-        "exclusion_tags": [],
-        "comment": "",
-        "amount": 1
-      },
-      "output_fluid": {
-        "comment": "Lager",
-        "name": "fluid_booze_lager_normal",
-        "amount": 1
-      },
-      "time": 24000
-    },
-    {
-      "comment": "",
-      "item": {
-        "ore": null,
-        "comment": "Nether Wart",
-        "mod_id": "minecraft",
-        "name": "nether_wart",
-        "amount": 1,
-        "meta": 0
-      },
-      "input_fluid": {
-        "name": null,
-        "names": [
-          "fluid_booze_lager_young"
-        ],
-        "inclusion_tags": [],
-        "exclusion_tags": [],
-        "comment": "",
-        "amount": 1
-      },
-      "output_fluid": {
-        "comment": "Lager",
-        "name": "fluid_booze_lager_normal",
-        "amount": 1
-      },
-      "time": 15840
-    },
-    {
-      "comment": "",
-      "item": {
-        "ore": "dustGlowstone",
-        "comment": "",
-        "mod_id": null,
-        "name": null,
-        "amount": 1,
-        "meta": 32767
-      },
-      "input_fluid": {
-        "name": null,
-        "names": [
-          "fluid_booze_lager_normal"
-        ],
-        "inclusion_tags": [],
-        "exclusion_tags": [],
-        "comment": "",
-        "amount": 1
-      },
-      "output_fluid": {
-        "comment": "Lager",
-        "name": "fluid_booze_lager_potent",
-        "amount": 1
-      },
-      "time": 24000
-    },
-    {
-      "comment": "",
-      "item": {
-        "ore": "dustGlowstone",
-        "comment": "",
-        "mod_id": null,
-        "name": null,
-        "amount": 1,
-        "meta": 32767
-      },
-      "input_fluid": {
-        "name": null,
-        "names": [
-          "fluid_booze_lager_extended"
-        ],
-        "inclusion_tags": [],
-        "exclusion_tags": [],
-        "comment": "",
-        "amount": 1
-      },
-      "output_fluid": {
-        "comment": "Lager",
-        "name": "fluid_booze_lager_potent",
-        "amount": 1
-      },
-      "time": 24000
-    },
-    {
-      "comment": "",
-      "item": {
-        "ore": "dustRedstone",
-        "comment": "",
-        "mod_id": null,
-        "name": null,
-        "amount": 1,
-        "meta": 32767
-      },
-      "input_fluid": {
-        "name": null,
-        "names": [
-          "fluid_booze_lager_normal"
-        ],
-        "inclusion_tags": [],
-        "exclusion_tags": [],
-        "comment": "",
-        "amount": 1
-      },
-      "output_fluid": {
-        "comment": "Lager",
-        "name": "fluid_booze_lager_extended",
-        "amount": 1
-      },
-      "time": 24000
-    },
-    {
-      "comment": "",
-      "item": {
-        "ore": "dustRedstone",
-        "comment": "",
-        "mod_id": null,
-        "name": null,
-        "amount": 1,
-        "meta": 32767
-      },
-      "input_fluid": {
-        "name": null,
-        "names": [
-          "fluid_booze_lager_potent"
-        ],
-        "inclusion_tags": [],
-        "exclusion_tags": [],
-        "comment": "",
-        "amount": 1
-      },
-      "output_fluid": {
-        "comment": "Lager",
-        "name": "fluid_booze_lager_potentextended",
-        "amount": 1
-      },
-      "time": 24000
-    },
-    {
-      "comment": "",
-      "item": {
-        "ore": "dustRedstone",
-        "comment": "",
-        "mod_id": null,
-        "name": null,
-        "amount": 1,
-        "meta": 32767
-      },
-      "input_fluid": {
-        "name": null,
-        "names": [
-          "fluid_booze_lager_extended"
-        ],
-        "inclusion_tags": [],
-        "exclusion_tags": [],
-        "comment": "",
-        "amount": 1
-      },
-      "output_fluid": {
-        "comment": "Lager",
-        "name": "fluid_booze_lager_hyperextended",
-        "amount": 1
-      },
-      "time": 24000
-    },
-    {
-      "comment": "",
-      "item": {
-        "ore": "yeastEthereal",
-        "comment": "",
-        "mod_id": null,
-        "name": null,
-        "amount": 1,
-        "meta": 32767
-      },
-      "input_fluid": {
-        "name": null,
-        "names": [
-          "fluid_booze_lager_potentextended"
-        ],
-        "inclusion_tags": [],
-        "exclusion_tags": [],
-        "comment": "",
-        "amount": 1
-      },
-      "output_fluid": {
-        "comment": "Lager",
-        "name": "fluid_booze_lager_magical",
-        "amount": 1
-      },
-      "time": 24000
-    },
-    {
-      "comment": "",
-      "item": {
-        "ore": "yeastOrigin",
-        "comment": "",
-        "mod_id": null,
-        "name": null,
-        "amount": 1,
-        "meta": 32767
-      },
-      "input_fluid": {
-        "name": null,
-        "names": [
-          "fluid_booze_lager_potent"
-        ],
-        "inclusion_tags": [],
-        "exclusion_tags": [],
-        "comment": "",
-        "amount": 1
-      },
-      "output_fluid": {
-        "comment": "Lager",
-        "name": "fluid_booze_lager_intoxicated",
-        "amount": 1
-      },
-      "time": 24000
-    },
-    {
-      "comment": "",
-      "item": {
-        "ore": "yeastOrigin",
-        "comment": "",
-        "mod_id": null,
-        "name": null,
-        "amount": 1,
-        "meta": 32767
-      },
-      "input_fluid": {
-        "name": null,
-        "names": [
-          "fluid_booze_lager_extended"
-        ],
-        "inclusion_tags": [],
-        "exclusion_tags": [],
-        "comment": "",
-        "amount": 1
-      },
-      "output_fluid": {
-        "comment": "Lager",
-        "name": "fluid_booze_lager_intoxicated",
-        "amount": 1
-      },
-      "time": 24000
-    },
-    {
-      "comment": "",
-      "item": {
-        "ore": "yeastPoison",
-        "comment": "",
-        "mod_id": null,
-        "name": null,
-        "amount": 1,
-        "meta": 32767
-      },
-      "input_fluid": {
-        "name": null,
-        "names": [
-          "fluid_booze_lager_normal"
-        ],
-        "inclusion_tags": [],
-        "exclusion_tags": [],
-        "comment": "",
-        "amount": 1
-      },
-      "output_fluid": {
-        "comment": "Lager",
-        "name": "fluid_booze_lager_poisoned",
-        "amount": 1
-      },
-      "time": 24000
-    },
-    {
-      "comment": "",
-      "item": null,
-      "input_fluid": {
-        "name": null,
-        "names": [
-          "fluid_booze_lager_normal"
-        ],
-        "inclusion_tags": [],
-        "exclusion_tags": [],
-        "comment": "",
-        "amount": 1
-      },
-      "output_fluid": {
-        "comment": "Lager",
-        "name": "fluid_booze_lager_poisoned",
-        "amount": 1
-      },
-      "time": 24000
-    },
-    {
-      "comment": "",
-      "item": {
-        "ore": "yeastPoison",
-        "comment": "",
-        "mod_id": null,
-        "name": null,
-        "amount": 1,
-        "meta": 32767
-      },
-      "input_fluid": {
-        "name": null,
-        "names": [
-          "fluid_booze_lager_potent"
-        ],
-        "inclusion_tags": [],
-        "exclusion_tags": [],
-        "comment": "",
-        "amount": 1
-      },
-      "output_fluid": {
-        "comment": "Lager",
-        "name": "fluid_booze_lager_poisoned",
-        "amount": 1
-      },
-      "time": 24000
-    },
-    {
-      "comment": "",
-      "item": null,
-      "input_fluid": {
-        "name": null,
-        "names": [
-          "fluid_booze_lager_potent"
-        ],
-        "inclusion_tags": [],
-        "exclusion_tags": [],
-        "comment": "",
-        "amount": 1
-      },
-      "output_fluid": {
-        "comment": "Lager",
-        "name": "fluid_booze_lager_poisoned",
-        "amount": 1
-      },
-      "time": 24000
-    },
-    {
-      "comment": "",
-      "item": {
-        "ore": "yeastPoison",
-        "comment": "",
-        "mod_id": null,
-        "name": null,
-        "amount": 1,
-        "meta": 32767
-      },
-      "input_fluid": {
-        "name": null,
-        "names": [
-          "fluid_booze_lager_extended"
-        ],
-        "inclusion_tags": [],
-        "exclusion_tags": [],
-        "comment": "",
-        "amount": 1
-      },
-      "output_fluid": {
-        "comment": "Lager",
-        "name": "fluid_booze_lager_poisoned",
-        "amount": 1
-      },
-      "time": 24000
-    },
-    {
-      "comment": "",
-      "item": null,
-      "input_fluid": {
-        "name": null,
-        "names": [
-          "fluid_booze_lager_extended"
-        ],
-        "inclusion_tags": [],
-        "exclusion_tags": [],
-        "comment": "",
-        "amount": 1
-      },
-      "output_fluid": {
-        "comment": "Lager",
-        "name": "fluid_booze_lager_poisoned",
-        "amount": 1
-      },
-      "time": 24000
-    },
-    {
-      "comment": "",
-      "item": {
-        "ore": "yeastPoison",
-        "comment": "",
-        "mod_id": null,
-        "name": null,
-        "amount": 1,
-        "meta": 32767
-      },
-      "input_fluid": {
-        "name": null,
-        "names": [
-          "fluid_booze_lager_hyperextended"
-        ],
-        "inclusion_tags": [],
-        "exclusion_tags": [],
-        "comment": "",
-        "amount": 1
-      },
-      "output_fluid": {
-        "comment": "Lager",
-        "name": "fluid_booze_lager_poisoned",
-        "amount": 1
-      },
-      "time": 24000
-    },
-    {
-      "comment": "",
-      "item": null,
-      "input_fluid": {
-        "name": null,
-        "names": [
-          "fluid_booze_lager_hyperextended"
-        ],
-        "inclusion_tags": [],
-        "exclusion_tags": [],
-        "comment": "",
-        "amount": 1
-      },
-      "output_fluid": {
-        "comment": "Lager",
-        "name": "fluid_booze_lager_poisoned",
-        "amount": 1
-      },
-      "time": 24000
-    },
-    {
-      "comment": "",
-      "item": {
-        "ore": "yeastPoison",
-        "comment": "",
-        "mod_id": null,
-        "name": null,
-        "amount": 1,
-        "meta": 32767
-      },
-      "input_fluid": {
-        "name": null,
-        "names": [
-          "fluid_booze_lager_intoxicated"
-        ],
-        "inclusion_tags": [],
-        "exclusion_tags": [],
-        "comment": "",
-        "amount": 1
-      },
-      "output_fluid": {
-        "comment": "Lager",
-        "name": "fluid_booze_lager_poisoned",
-        "amount": 1
-      },
-      "time": 24000
-    },
-    {
-      "comment": "",
-      "item": null,
-      "input_fluid": {
-        "name": null,
-        "names": [
-          "fluid_booze_lager_intoxicated"
-        ],
-        "inclusion_tags": [],
-        "exclusion_tags": [],
-        "comment": "",
-        "amount": 1
-      },
-      "output_fluid": {
-        "comment": "Lager",
-        "name": "fluid_booze_lager_poisoned",
-        "amount": 1
-      },
-      "time": 24000
-    },
-    {
-      "comment": "",
-      "item": null,
-      "input_fluid": {
-        "name": null,
-        "names": [
-          "fluid_booze_lager_poisoned"
-        ],
-        "inclusion_tags": [],
-        "exclusion_tags": [],
-        "comment": "",
-        "amount": 1
-      },
-      "output_fluid": {
-        "comment": "Lager",
-        "name": "fluid_booze_lager_poisoned",
-        "amount": 1
-      },
-      "time": 24000
-    },
-    {
-      "comment": "",
-      "item": {
-        "ore": "yeastBrewers",
-        "comment": "",
-        "mod_id": null,
-        "name": null,
-        "amount": 1,
-        "meta": 32767
-      },
-      "input_fluid": {
-        "name": null,
-        "names": [
-          "fluid_honey"
-        ],
-        "inclusion_tags": [],
-        "exclusion_tags": [],
-        "comment": "",
-        "amount": 250
-      },
-      "output_fluid": {
-        "comment": "Mead Must",
-        "name": "fluid_booze_mead_young",
-        "amount": 250
-      },
-      "time": 24000
-    },
-    {
-      "comment": "",
-      "item": {
-        "ore": "yeastBrewers",
-        "comment": "",
-        "mod_id": null,
-        "name": null,
-        "amount": 1,
-        "meta": 32767
-      },
-      "input_fluid": {
-        "name": null,
-        "names": [],
-        "inclusion_tags": [
-          "young",
-          "mead"
-        ],
-        "exclusion_tags": [],
-        "comment": "",
-        "amount": 1
-      },
-      "output_fluid": {
-        "comment": "Mead",
-        "name": "fluid_booze_mead_fermented",
-        "amount": 1
-      },
-      "time": 24000
-    },
-    {
-      "comment": "",
-      "item": {
-        "ore": null,
-        "comment": "Nether Wart",
-        "mod_id": "minecraft",
-        "name": "nether_wart",
-        "amount": 1,
-        "meta": 0
-      },
-      "input_fluid": {
-        "name": null,
-        "names": [],
-        "inclusion_tags": [
-          "young",
-          "mead"
-        ],
-        "exclusion_tags": [],
-        "comment": "",
-        "amount": 1
-      },
-      "output_fluid": {
-        "comment": "Mead",
-        "name": "fluid_booze_mead_fermented",
-        "amount": 1
-      },
-      "time": 15840
-    },
-    {
-      "comment": "",
-      "item": {
-        "ore": "dustGlowstone",
-        "comment": "",
-        "mod_id": null,
-        "name": null,
-        "amount": 1,
-        "meta": 32767
-      },
-      "input_fluid": {
-        "name": null,
-        "names": [
-          "fluid_booze_mead_fermented"
-        ],
-        "inclusion_tags": [],
-        "exclusion_tags": [],
-        "comment": "",
-        "amount": 1
-      },
-      "output_fluid": {
-        "comment": "Potent Mead",
-        "name": "fluid_booze_mead_potent",
-        "amount": 1
-      },
-      "time": 24000
-    },
-    {
-      "comment": "",
-      "item": {
-        "ore": "dustRedstone",
-        "comment": "",
-        "mod_id": null,
-        "name": null,
-        "amount": 1,
-        "meta": 32767
-      },
-      "input_fluid": {
-        "name": null,
-        "names": [
-          "fluid_booze_mead_fermented"
-        ],
-        "inclusion_tags": [],
-        "exclusion_tags": [],
-        "comment": "",
-        "amount": 1
-      },
-      "output_fluid": {
-        "comment": "Extended Mead",
-        "name": "fluid_booze_mead_extended",
-        "amount": 1
-      },
-      "time": 24000
-    },
-    {
-      "comment": "",
-      "item": {
-        "ore": "dustRedstone",
-        "comment": "",
-        "mod_id": null,
-        "name": null,
-        "amount": 1,
-        "meta": 32767
-      },
-      "input_fluid": {
-        "name": null,
-        "names": [
-          "fluid_booze_mead_potent"
-        ],
-        "inclusion_tags": [],
-        "exclusion_tags": [],
-        "comment": "",
-        "amount": 1
-      },
-      "output_fluid": {
-        "comment": "Potent-Extended Mead",
-        "name": "fluid_booze_mead_potentextended",
-        "amount": 1
-      },
-      "time": 24000
-    },
-    {
-      "comment": "",
-      "item": {
-        "ore": "dustRedstone",
-        "comment": "",
-        "mod_id": null,
-        "name": null,
-        "amount": 1,
-        "meta": 32767
-      },
-      "input_fluid": {
-        "name": null,
-        "names": [
-          "fluid_booze_mead_extended"
-        ],
-        "inclusion_tags": [],
-        "exclusion_tags": [],
-        "comment": "",
-        "amount": 1
-      },
-      "output_fluid": {
-        "comment": "Hyper-Extended Mead",
-        "name": "fluid_booze_mead_hyperextended",
-        "amount": 1
-      },
-      "time": 24000
-    },
-    {
-      "comment": "",
-      "item": {
-        "ore": "yeastEthereal",
-        "comment": "",
-        "mod_id": null,
-        "name": null,
-        "amount": 1,
-        "meta": 32767
-      },
-      "input_fluid": {
-        "name": null,
-        "names": [
-          "fluid_booze_mead_extended"
-        ],
-        "inclusion_tags": [],
-        "exclusion_tags": [],
-        "comment": "",
-        "amount": 1
-      },
-      "output_fluid": {
-        "comment": "Magical Mead",
-        "name": "fluid_booze_mead_ethereal",
-        "amount": 1
-      },
-      "time": 24000
-    },
-    {
-      "comment": "",
-      "item": {
-        "ore": "yeastEthereal",
-        "comment": "",
-        "mod_id": null,
-        "name": null,
-        "amount": 1,
-        "meta": 32767
-      },
-      "input_fluid": {
-        "name": null,
-        "names": [
-          "fluid_booze_mead_potent"
-        ],
-        "inclusion_tags": [],
-        "exclusion_tags": [],
-        "comment": "",
-        "amount": 1
-      },
-      "output_fluid": {
-        "comment": "Magical Mead",
-        "name": "fluid_booze_mead_ethereal",
-        "amount": 1
-      },
-      "time": 24000
-    },
-    {
-      "comment": "",
-      "item": {
-        "ore": "yeastOrigin",
-        "comment": "",
-        "mod_id": null,
-        "name": null,
-        "amount": 1,
-        "meta": 32767
-      },
-      "input_fluid": {
-        "name": null,
-        "names": [
-          "fluid_booze_mead_extended"
-        ],
-        "inclusion_tags": [],
-        "exclusion_tags": [],
-        "comment": "",
-        "amount": 1
-      },
-      "output_fluid": {
-        "comment": "Intoxicated Mead",
-        "name": "fluid_booze_mead_intoxicated",
-        "amount": 1
-      },
-      "time": 24000
-    },
-    {
-      "comment": "",
-      "item": {
-        "ore": "yeastOrigin",
-        "comment": "",
-        "mod_id": null,
-        "name": null,
-        "amount": 1,
-        "meta": 32767
-      },
-      "input_fluid": {
-        "name": null,
-        "names": [
-          "fluid_booze_mead_potent"
-        ],
-        "inclusion_tags": [],
-        "exclusion_tags": [],
-        "comment": "",
-        "amount": 1
-      },
-      "output_fluid": {
-        "comment": "Intoxicated Mead",
-        "name": "fluid_booze_mead_intoxicated",
-        "amount": 1
-      },
-      "time": 24000
-    },
-    {
-      "comment": "",
-      "item": {
-        "ore": "yeastPoison",
-        "comment": "",
-        "mod_id": null,
-        "name": null,
-        "amount": 1,
-        "meta": 32767
-      },
-      "input_fluid": {
-        "name": null,
-        "names": [
-          "fluid_booze_mead_fermented"
-        ],
-        "inclusion_tags": [],
-        "exclusion_tags": [],
-        "comment": "",
-        "amount": 1
-      },
-      "output_fluid": {
-        "comment": "Mead",
-        "name": "fluid_booze_mead_poisoned",
-        "amount": 1
-      },
-      "time": 24000
-    },
-    {
-      "comment": "",
-      "item": null,
-      "input_fluid": {
-        "name": null,
-        "names": [
-          "fluid_booze_mead_fermented"
-        ],
-        "inclusion_tags": [],
-        "exclusion_tags": [],
-        "comment": "",
-        "amount": 1
-      },
-      "output_fluid": {
-        "comment": "Mead",
-        "name": "fluid_booze_mead_poisoned",
-        "amount": 1
-      },
-      "time": 24000
-    },
-    {
-      "comment": "",
-      "item": {
-        "ore": "yeastPoison",
-        "comment": "",
-        "mod_id": null,
-        "name": null,
-        "amount": 1,
-        "meta": 32767
-      },
-      "input_fluid": {
-        "name": null,
-        "names": [
-          "fluid_booze_mead_extended"
-        ],
-        "inclusion_tags": [],
-        "exclusion_tags": [],
-        "comment": "",
-        "amount": 1
-      },
-      "output_fluid": {
-        "comment": "Mead",
-        "name": "fluid_booze_mead_poisoned",
-        "amount": 1
-      },
-      "time": 24000
-    },
-    {
-      "comment": "",
-      "item": null,
-      "input_fluid": {
-        "name": null,
-        "names": [
-          "fluid_booze_mead_extended"
-        ],
-        "inclusion_tags": [],
-        "exclusion_tags": [],
-        "comment": "",
-        "amount": 1
-      },
-      "output_fluid": {
-        "comment": "Mead",
-        "name": "fluid_booze_mead_poisoned",
-        "amount": 1
-      },
-      "time": 24000
-    },
-    {
-      "comment": "",
-      "item": {
-        "ore": "yeastPoison",
-        "comment": "",
-        "mod_id": null,
-        "name": null,
-        "amount": 1,
-        "meta": 32767
-      },
-      "input_fluid": {
-        "name": null,
-        "names": [
-          "fluid_booze_mead_potent"
-        ],
-        "inclusion_tags": [],
-        "exclusion_tags": [],
-        "comment": "",
-        "amount": 1
-      },
-      "output_fluid": {
-        "comment": "Mead",
-        "name": "fluid_booze_mead_poisoned",
-        "amount": 1
-      },
-      "time": 24000
-    },
-    {
-      "comment": "",
-      "item": null,
-      "input_fluid": {
-        "name": null,
-        "names": [
-          "fluid_booze_mead_potent"
-        ],
-        "inclusion_tags": [],
-        "exclusion_tags": [],
-        "comment": "",
-        "amount": 1
-      },
-      "output_fluid": {
-        "comment": "Mead",
-        "name": "fluid_booze_mead_poisoned",
-        "amount": 1
-      },
-      "time": 24000
-    },
-    {
-      "comment": "",
-      "item": {
-        "ore": "yeastPoison",
-        "comment": "",
-        "mod_id": null,
-        "name": null,
-        "amount": 1,
-        "meta": 32767
-      },
-      "input_fluid": {
-        "name": null,
-        "names": [
-          "fluid_booze_mead_ethereal"
-        ],
-        "inclusion_tags": [],
-        "exclusion_tags": [],
-        "comment": "",
-        "amount": 1
-      },
-      "output_fluid": {
-        "comment": "Mead",
-        "name": "fluid_booze_mead_poisoned",
-        "amount": 1
-      },
-      "time": 24000
-    },
-    {
-      "comment": "",
-      "item": null,
-      "input_fluid": {
-        "name": null,
-        "names": [
-          "fluid_booze_mead_ethereal"
-        ],
-        "inclusion_tags": [],
-        "exclusion_tags": [],
-        "comment": "",
-        "amount": 1
-      },
-      "output_fluid": {
-        "comment": "Mead",
-        "name": "fluid_booze_mead_poisoned",
-        "amount": 1
-      },
-      "time": 24000
-    },
-    {
-      "comment": "",
-      "item": {
-        "ore": "yeastPoison",
-        "comment": "",
-        "mod_id": null,
-        "name": null,
-        "amount": 1,
-        "meta": 32767
-      },
-      "input_fluid": {
-        "name": null,
-        "names": [
-          "fluid_booze_mead_intoxicated"
-        ],
-        "inclusion_tags": [],
-        "exclusion_tags": [],
-        "comment": "",
-        "amount": 1
-      },
-      "output_fluid": {
-        "comment": "Mead",
-        "name": "fluid_booze_mead_poisoned",
-        "amount": 1
-      },
-      "time": 24000
-    },
-    {
-      "comment": "",
-      "item": null,
-      "input_fluid": {
-        "name": null,
-        "names": [
-          "fluid_booze_mead_intoxicated"
-        ],
-        "inclusion_tags": [],
-        "exclusion_tags": [],
-        "comment": "",
-        "amount": 1
-      },
-      "output_fluid": {
-        "comment": "Mead",
-        "name": "fluid_booze_mead_poisoned",
-        "amount": 1
-      },
-      "time": 24000
-    },
-    {
-      "comment": "",
-      "item": null,
-      "input_fluid": {
-        "name": null,
-        "names": [
-          "fluid_booze_mead_poisoned"
-        ],
-        "inclusion_tags": [],
-        "exclusion_tags": [],
-        "comment": "",
-        "amount": 1
-      },
-      "output_fluid": {
-        "comment": "Mead",
-        "name": "fluid_booze_mead_poisoned",
-        "amount": 1
-      },
-      "time": 24000
-    },
-    {
-      "comment": "",
-      "item": {
-        "ore": "yeastBrewers",
-        "comment": "",
-        "mod_id": null,
-        "name": null,
-        "amount": 1,
-        "meta": 32767
-      },
-      "input_fluid": {
-        "name": null,
-        "names": [
           "fluid_booze_purple_juice"
         ],
         "inclusion_tags": [],
@@ -2699,7 +584,7 @@
       "comment": "",
       "item": {
         "ore": null,
-        "comment": "Nether Wart",
+        "comment": "Verrues du Nether",
         "mod_id": "minecraft",
         "name": "nether_wart",
         "amount": 1,
@@ -2753,7 +638,7 @@
       "comment": "",
       "item": {
         "ore": null,
-        "comment": "Nether Wart",
+        "comment": "Verrues du Nether",
         "mod_id": "minecraft",
         "name": "nether_wart",
         "amount": 1,
@@ -2807,7 +692,7 @@
       "comment": "",
       "item": {
         "ore": null,
-        "comment": "Nether Wart",
+        "comment": "Verrues du Nether",
         "mod_id": "minecraft",
         "name": "nether_wart",
         "amount": 1,
@@ -4397,25 +2282,53 @@
       "input_fluid": {
         "name": null,
         "names": [
-          "grapejuice"
+          "fluid_honey"
         ],
         "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 250
+      },
+      "output_fluid": {
+        "comment": "Mead Must",
+        "name": "fluid_booze_mead_young",
+        "amount": 250
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": "yeastBrewers",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
+        "amount": 1,
+        "meta": 32767
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [],
+        "inclusion_tags": [
+          "young",
+          "mead"
+        ],
         "exclusion_tags": [],
         "comment": "",
         "amount": 1
       },
       "output_fluid": {
-        "comment": "Purple Grape Wine",
-        "name": "fluid_booze_purple_wine",
+        "comment": "Mead",
+        "name": "fluid_booze_mead_fermented",
         "amount": 1
       },
-      "time": 144000
+      "time": 24000
     },
     {
       "comment": "",
       "item": {
         "ore": null,
-        "comment": "Nether Wart",
+        "comment": "Verrues du Nether",
         "mod_id": "minecraft",
         "name": "nether_wart",
         "amount": 1,
@@ -4423,20 +2336,21 @@
       },
       "input_fluid": {
         "name": null,
-        "names": [
-          "grapejuice"
+        "names": [],
+        "inclusion_tags": [
+          "young",
+          "mead"
         ],
-        "inclusion_tags": [],
         "exclusion_tags": [],
         "comment": "",
         "amount": 1
       },
       "output_fluid": {
-        "comment": "Purple Grape Wine",
-        "name": "fluid_booze_purple_wine",
+        "comment": "Mead",
+        "name": "fluid_booze_mead_fermented",
         "amount": 1
       },
-      "time": 95040
+      "time": 15840
     },
     {
       "comment": "",
@@ -4451,7 +2365,7 @@
       "input_fluid": {
         "name": null,
         "names": [
-          "wine"
+          "fluid_booze_mead_fermented"
         ],
         "inclusion_tags": [],
         "exclusion_tags": [],
@@ -4459,11 +2373,11 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "Purple Grape Wine Potent",
-        "name": "fluid_booze_purple_wine_potent",
+        "comment": "Potent Mead",
+        "name": "fluid_booze_mead_potent",
         "amount": 1
       },
-      "time": 144000
+      "time": 24000
     },
     {
       "comment": "",
@@ -4478,7 +2392,7 @@
       "input_fluid": {
         "name": null,
         "names": [
-          "wine"
+          "fluid_booze_mead_fermented"
         ],
         "inclusion_tags": [],
         "exclusion_tags": [],
@@ -4486,11 +2400,173 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "Purple Grape Wine Extended",
-        "name": "fluid_booze_purple_wine_extended",
+        "comment": "Extended Mead",
+        "name": "fluid_booze_mead_extended",
         "amount": 1
       },
-      "time": 144000
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": "dustRedstone",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
+        "amount": 1,
+        "meta": 32767
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "fluid_booze_mead_potent"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Potent-Extended Mead",
+        "name": "fluid_booze_mead_potentextended",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": "dustRedstone",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
+        "amount": 1,
+        "meta": 32767
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "fluid_booze_mead_extended"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Hyper-Extended Mead",
+        "name": "fluid_booze_mead_hyperextended",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": "yeastEthereal",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
+        "amount": 1,
+        "meta": 32767
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "fluid_booze_mead_extended"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Magical Mead",
+        "name": "fluid_booze_mead_ethereal",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": "yeastEthereal",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
+        "amount": 1,
+        "meta": 32767
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "fluid_booze_mead_potent"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Magical Mead",
+        "name": "fluid_booze_mead_ethereal",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": "yeastOrigin",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
+        "amount": 1,
+        "meta": 32767
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "fluid_booze_mead_extended"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Intoxicated Mead",
+        "name": "fluid_booze_mead_intoxicated",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": "yeastOrigin",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
+        "amount": 1,
+        "meta": 32767
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "fluid_booze_mead_potent"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Intoxicated Mead",
+        "name": "fluid_booze_mead_intoxicated",
+        "amount": 1
+      },
+      "time": 24000
     },
     {
       "comment": "",
@@ -4505,7 +2581,7 @@
       "input_fluid": {
         "name": null,
         "names": [
-          "wine"
+          "fluid_booze_mead_fermented"
         ],
         "inclusion_tags": [],
         "exclusion_tags": [],
@@ -4513,17 +2589,1671 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "Purple Grape Wine",
-        "name": "fluid_booze_purple_wine_poisoned",
+        "comment": "Mead",
+        "name": "fluid_booze_mead_poisoned",
         "amount": 1
       },
-      "time": 144000
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": null,
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "fluid_booze_mead_fermented"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Mead",
+        "name": "fluid_booze_mead_poisoned",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": "yeastPoison",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
+        "amount": 1,
+        "meta": 32767
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "fluid_booze_mead_extended"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Mead",
+        "name": "fluid_booze_mead_poisoned",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": null,
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "fluid_booze_mead_extended"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Mead",
+        "name": "fluid_booze_mead_poisoned",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": "yeastPoison",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
+        "amount": 1,
+        "meta": 32767
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "fluid_booze_mead_potent"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Mead",
+        "name": "fluid_booze_mead_poisoned",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": null,
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "fluid_booze_mead_potent"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Mead",
+        "name": "fluid_booze_mead_poisoned",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": "yeastPoison",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
+        "amount": 1,
+        "meta": 32767
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "fluid_booze_mead_ethereal"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Mead",
+        "name": "fluid_booze_mead_poisoned",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": null,
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "fluid_booze_mead_ethereal"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Mead",
+        "name": "fluid_booze_mead_poisoned",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": "yeastPoison",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
+        "amount": 1,
+        "meta": 32767
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "fluid_booze_mead_intoxicated"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Mead",
+        "name": "fluid_booze_mead_poisoned",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": null,
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "fluid_booze_mead_intoxicated"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Mead",
+        "name": "fluid_booze_mead_poisoned",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": null,
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "fluid_booze_mead_poisoned"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Mead",
+        "name": "fluid_booze_mead_poisoned",
+        "amount": 1
+      },
+      "time": 24000
     },
     {
       "comment": "",
       "item": {
         "ore": null,
-        "comment": "Nether Wart",
+        "comment": "Verrues du Nether",
+        "mod_id": "minecraft",
+        "name": "nether_wart",
+        "amount": 1,
+        "meta": 0
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "fluid_booze_sake_mash"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1000
+      },
+      "output_fluid": {
+        "comment": "Sake",
+        "name": "fluid_booze_sake_fermented",
+        "amount": 1000
+      },
+      "time": 15840
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": null,
+        "comment": "Poudre lumineuse",
+        "mod_id": "minecraft",
+        "name": "glowstone_dust",
+        "amount": 1,
+        "meta": 0
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "fluid_booze_sake_fermented"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1000
+      },
+      "output_fluid": {
+        "comment": "Sake",
+        "name": "fluid_booze_sake_potent",
+        "amount": 1000
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": null,
+        "comment": "Redstone",
+        "mod_id": "minecraft",
+        "name": "redstone",
+        "amount": 1,
+        "meta": 0
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "fluid_booze_sake_fermented"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1000
+      },
+      "output_fluid": {
+        "comment": "Sake",
+        "name": "fluid_booze_sake_extended",
+        "amount": 1000
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": null,
+        "comment": "Redstone",
+        "mod_id": "minecraft",
+        "name": "redstone",
+        "amount": 1,
+        "meta": 0
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "fluid_booze_sake_extended"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1000
+      },
+      "output_fluid": {
+        "comment": "Sake",
+        "name": "fluid_booze_sake_hyperextended",
+        "amount": 1000
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": null,
+        "comment": "Redstone",
+        "mod_id": "minecraft",
+        "name": "redstone",
+        "amount": 1,
+        "meta": 0
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "fluid_booze_sake_potent"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1000
+      },
+      "output_fluid": {
+        "comment": "Sake",
+        "name": "fluid_booze_sake_potent_extended",
+        "amount": 1000
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": "yeastEthereal",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
+        "amount": 1,
+        "meta": 32767
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "fluid_booze_sake_potent_extended"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1000
+      },
+      "output_fluid": {
+        "comment": "Sake",
+        "name": "fluid_booze_sake_magical",
+        "amount": 1000
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": null,
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "fluid_booze_sake_fermented"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1000
+      },
+      "output_fluid": {
+        "comment": "Sake",
+        "name": "fluid_booze_sake_poisoned",
+        "amount": 1000
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": null,
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "fluid_booze_sake_potent"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1000
+      },
+      "output_fluid": {
+        "comment": "Sake",
+        "name": "fluid_booze_sake_poisoned",
+        "amount": 1000
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": null,
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "fluid_booze_sake_extended"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1000
+      },
+      "output_fluid": {
+        "comment": "Sake",
+        "name": "fluid_booze_sake_poisoned",
+        "amount": 1000
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": null,
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "fluid_booze_sake_hyperextended"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1000
+      },
+      "output_fluid": {
+        "comment": "Sake",
+        "name": "fluid_booze_sake_poisoned",
+        "amount": 1000
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": null,
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "fluid_booze_sake_potent_extended"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1000
+      },
+      "output_fluid": {
+        "comment": "Sake",
+        "name": "fluid_booze_sake_poisoned",
+        "amount": 1000
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": null,
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "fluid_booze_sake_potent_hyperextended"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1000
+      },
+      "output_fluid": {
+        "comment": "Sake",
+        "name": "fluid_booze_sake_poisoned",
+        "amount": 1000
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": null,
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "fluid_booze_sake_poisoned"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1000
+      },
+      "output_fluid": {
+        "comment": "Sake",
+        "name": "fluid_booze_sake_poisoned",
+        "amount": 1000
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": "yeastBrewers",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
+        "amount": 1,
+        "meta": 32767
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "fluid_booze_hopale_unhopped"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Ale",
+        "name": "fluid_booze_hopale_normal",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": null,
+        "comment": "Verrues du Nether",
+        "mod_id": "minecraft",
+        "name": "nether_wart",
+        "amount": 1,
+        "meta": 0
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "fluid_booze_hopale_unhopped"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Ale",
+        "name": "fluid_booze_hopale_normal",
+        "amount": 1
+      },
+      "time": 15840
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": "dustGlowstone",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
+        "amount": 1,
+        "meta": 32767
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "fluid_booze_hopale_normal"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Ale",
+        "name": "fluid_booze_hopale_potent",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": "dustGlowstone",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
+        "amount": 1,
+        "meta": 32767
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "fluid_booze_hopale_extended"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Ale",
+        "name": "fluid_booze_hopale_potent",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": "dustRedstone",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
+        "amount": 1,
+        "meta": 32767
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "fluid_booze_hopale_normal"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Ale",
+        "name": "fluid_booze_hopale_extended",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": "dustRedstone",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
+        "amount": 1,
+        "meta": 32767
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "fluid_booze_hopale_potent"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Ale",
+        "name": "fluid_booze_hopale_extended",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": "yeastEthereal",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
+        "amount": 1,
+        "meta": 32767
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "fluid_booze_hopale_potent"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Ale",
+        "name": "fluid_booze_hopale_hyperextended",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": "yeastEthereal",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
+        "amount": 1,
+        "meta": 32767
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "fluid_booze_hopale_extended"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Ale",
+        "name": "fluid_booze_hopale_hyperextended",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": "yeastLager",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
+        "amount": 1,
+        "meta": 32767
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "fluid_booze_hopale_hyperextended"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Ale",
+        "name": "fluid_booze_hopale_lager",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": "yeastOrigin",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
+        "amount": 1,
+        "meta": 32767
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "fluid_booze_hopale_potent"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Ale",
+        "name": "fluid_booze_hopale_intoxicated",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": "yeastOrigin",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
+        "amount": 1,
+        "meta": 32767
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "fluid_booze_hopale_extended"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Ale",
+        "name": "fluid_booze_hopale_intoxicated",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": "yeastPoison",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
+        "amount": 1,
+        "meta": 32767
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "fluid_booze_hopale_normal"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Ale",
+        "name": "fluid_booze_hopale_poisoned",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": null,
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "fluid_booze_hopale_normal"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Ale",
+        "name": "fluid_booze_hopale_poisoned",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": "yeastPoison",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
+        "amount": 1,
+        "meta": 32767
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "fluid_booze_hopale_potent"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Ale",
+        "name": "fluid_booze_hopale_poisoned",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": null,
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "fluid_booze_hopale_potent"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Ale",
+        "name": "fluid_booze_hopale_poisoned",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": "yeastPoison",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
+        "amount": 1,
+        "meta": 32767
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "fluid_booze_hopale_extended"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Ale",
+        "name": "fluid_booze_hopale_poisoned",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": null,
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "fluid_booze_hopale_extended"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Ale",
+        "name": "fluid_booze_hopale_poisoned",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": "yeastPoison",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
+        "amount": 1,
+        "meta": 32767
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "fluid_booze_hopale_hyperextended"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Ale",
+        "name": "fluid_booze_hopale_poisoned",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": null,
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "fluid_booze_hopale_hyperextended"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Ale",
+        "name": "fluid_booze_hopale_poisoned",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": "yeastPoison",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
+        "amount": 1,
+        "meta": 32767
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "fluid_booze_hopale_lager"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Ale",
+        "name": "fluid_booze_hopale_poisoned",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": null,
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "fluid_booze_hopale_lager"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Ale",
+        "name": "fluid_booze_hopale_poisoned",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": "yeastPoison",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
+        "amount": 1,
+        "meta": 32767
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "fluid_booze_hopale_intoxicated"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Ale",
+        "name": "fluid_booze_hopale_poisoned",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": null,
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "fluid_booze_hopale_intoxicated"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Ale",
+        "name": "fluid_booze_hopale_poisoned",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": null,
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "fluid_booze_hopale_poisoned"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Ale",
+        "name": "fluid_booze_hopale_poisoned",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": "yeastBrewers",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
+        "amount": 1,
+        "meta": 32767
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "fluid_booze_lager_young"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Lager",
+        "name": "fluid_booze_lager_normal",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": null,
+        "comment": "Verrues du Nether",
+        "mod_id": "minecraft",
+        "name": "nether_wart",
+        "amount": 1,
+        "meta": 0
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "fluid_booze_lager_young"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Lager",
+        "name": "fluid_booze_lager_normal",
+        "amount": 1
+      },
+      "time": 15840
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": "dustGlowstone",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
+        "amount": 1,
+        "meta": 32767
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "fluid_booze_lager_normal"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Lager",
+        "name": "fluid_booze_lager_potent",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": "dustGlowstone",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
+        "amount": 1,
+        "meta": 32767
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "fluid_booze_lager_extended"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Lager",
+        "name": "fluid_booze_lager_potent",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": "dustRedstone",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
+        "amount": 1,
+        "meta": 32767
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "fluid_booze_lager_normal"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Lager",
+        "name": "fluid_booze_lager_extended",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": "dustRedstone",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
+        "amount": 1,
+        "meta": 32767
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "fluid_booze_lager_potent"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Lager",
+        "name": "fluid_booze_lager_potentextended",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": "dustRedstone",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
+        "amount": 1,
+        "meta": 32767
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "fluid_booze_lager_extended"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Lager",
+        "name": "fluid_booze_lager_hyperextended",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": "yeastEthereal",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
+        "amount": 1,
+        "meta": 32767
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "fluid_booze_lager_potentextended"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Lager",
+        "name": "fluid_booze_lager_magical",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": "yeastOrigin",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
+        "amount": 1,
+        "meta": 32767
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "fluid_booze_lager_potent"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Lager",
+        "name": "fluid_booze_lager_intoxicated",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": "yeastOrigin",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
+        "amount": 1,
+        "meta": 32767
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "fluid_booze_lager_extended"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Lager",
+        "name": "fluid_booze_lager_intoxicated",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": "yeastPoison",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
+        "amount": 1,
+        "meta": 32767
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "fluid_booze_lager_normal"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Lager",
+        "name": "fluid_booze_lager_poisoned",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": null,
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "fluid_booze_lager_normal"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Lager",
+        "name": "fluid_booze_lager_poisoned",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": "yeastPoison",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
+        "amount": 1,
+        "meta": 32767
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "fluid_booze_lager_potent"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Lager",
+        "name": "fluid_booze_lager_poisoned",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": null,
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "fluid_booze_lager_potent"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Lager",
+        "name": "fluid_booze_lager_poisoned",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": "yeastPoison",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
+        "amount": 1,
+        "meta": 32767
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "fluid_booze_lager_extended"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Lager",
+        "name": "fluid_booze_lager_poisoned",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": null,
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "fluid_booze_lager_extended"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Lager",
+        "name": "fluid_booze_lager_poisoned",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": "yeastPoison",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
+        "amount": 1,
+        "meta": 32767
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "fluid_booze_lager_hyperextended"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Lager",
+        "name": "fluid_booze_lager_poisoned",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": null,
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "fluid_booze_lager_hyperextended"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Lager",
+        "name": "fluid_booze_lager_poisoned",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": "yeastPoison",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
+        "amount": 1,
+        "meta": 32767
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "fluid_booze_lager_intoxicated"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Lager",
+        "name": "fluid_booze_lager_poisoned",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": null,
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "fluid_booze_lager_intoxicated"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Lager",
+        "name": "fluid_booze_lager_poisoned",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": null,
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "fluid_booze_lager_poisoned"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Lager",
+        "name": "fluid_booze_lager_poisoned",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": null,
+        "comment": "Verrues du Nether",
         "mod_id": "minecraft",
         "name": "nether_wart",
         "amount": 1,
@@ -4550,34 +4280,7 @@
       "comment": "",
       "item": {
         "ore": null,
-        "comment": "Nether Wart",
-        "mod_id": "minecraft",
-        "name": "nether_wart",
-        "amount": 1,
-        "meta": 0
-      },
-      "input_fluid": {
-        "name": null,
-        "names": [
-          "milk"
-        ],
-        "inclusion_tags": [],
-        "exclusion_tags": [],
-        "comment": "",
-        "amount": 200
-      },
-      "output_fluid": {
-        "comment": "Kumis Fermented",
-        "name": "fluid_booze_kumis_kumis_fermented",
-        "amount": 200
-      },
-      "time": 15840
-    },
-    {
-      "comment": "",
-      "item": {
-        "ore": null,
-        "comment": "Glowstone Dust",
+        "comment": "Poudre lumineuse",
         "mod_id": "minecraft",
         "name": "glowstone_dust",
         "amount": 1,
@@ -4685,7 +4388,7 @@
       "comment": "",
       "item": {
         "ore": null,
-        "comment": "Glowstone Dust",
+        "comment": "Poudre lumineuse",
         "mod_id": "minecraft",
         "name": "glowstone_dust",
         "amount": 1,
@@ -4739,7 +4442,7 @@
       "comment": "",
       "item": {
         "ore": null,
-        "comment": "Glowstone Dust",
+        "comment": "Poudre lumineuse",
         "mod_id": "minecraft",
         "name": "glowstone_dust",
         "amount": 1,

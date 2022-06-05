@@ -1,1 +1,8 @@
-[]
+[{
+    "mob": ["minecraft:horse","minecraft:donkey"],
+    "result": "default"
+  },
+  {
+	"passive": true,
+    "result": "deny"
+}]
