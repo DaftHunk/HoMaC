@@ -181,7 +181,7 @@ ExternalMoves {
 # Réglages généraux pour le monde.
 General {
     # Permet à l'enclume de remplacer les objets finis par des objets à commencer depuis l'inventaire du joueur sans avoir à les placer manuellement.
-    allowAnvilAutoreloading=false
+    allowAnvilAutoreloading=true
     # Autorise les joueurs à jeter des Pokéballs depuis la barre d'inventaire. Si désactivé, les Pokéballs ne peuvent être jetées qu'en combat.
     allowCaptureOutsideBattle=true
     # Réglage côté serveur, détermine si les joueurs peuvent utiliser le Ciseau.
@@ -282,11 +282,11 @@ General {
     npcEditorOpOnly=true
     # Quelles dimensions utilisent les mécaniques de la génération 7 par défaut. Sinon, elles utiliseront les mécaniques de la génération 8.
     oldGenDimensions=[
-        "-1",
-        "0",
-        "1",
-        "72",
-        "73"
+        -1,
+        0,
+        1,
+        72,
+        73
     ]
     # Les ouleurs des minerais pour le skill Détection de minerais. Le format est block;color(hex);patternNumber
     oreColors=[

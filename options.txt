@@ -45,7 +45,7 @@ reducedDebugInfo:false
 useNativeTransport:true
 entityShadows:true
 mainHand:right
-attackIndicator:1
+attackIndicator:0
 showSubtitles:false
 realmsNotifications:true
 enableWeakAttacks:false
@@ -161,7 +161,7 @@ key_key.jei.previousPage:201
 key_key.jei.nextPage:209
 key_key.jei.bookmark:30
 key_key.jei.toggleBookmarkOverlay:0
-key_key.astikorcarts.desc:19
+key_key.astikorcarts.desc:30:CONTROL
 key_key.carry.desc:316
 key_waila.keybind.wailaconfig:82
 key_waila.keybind.wailadisplay:79
@@ -181,7 +181,7 @@ key_key.journeymap.zoom_in:13
 key_key.journeymap.zoom_out:12
 key_key.journeymap.minimap_type:26
 key_key.journeymap.minimap_preset:43
-key_key.journeymap.create_waypoint:48
+key_key.journeymap.create_waypoint:0
 key_key.journeymap.toggle_waypoints:0
 key_key.journeymap.fullscreen_create_waypoint:48
 key_key.journeymap.fullscreen_chat_position:0
@@ -204,7 +204,7 @@ soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0
 soundCategory_hostile:1.0
-soundCategory_neutral:1.0
+soundCategory_neutral:0.5
 soundCategory_player:1.0
 soundCategory_ambient:1.0
 soundCategory_voice:1.0
