@@ -15,8 +15,8 @@ difficulty:2
 fancyGraphics:true
 ao:2
 renderClouds:false
-resourcePacks:["Homc 1.12.2.zip"]
-incompatibleResourcePacks:[]
+resourcePacks:["Homc 1.12.2.zip","Tool+Belt+Retextured.zip","ThePixelmonOST.zip"]
+incompatibleResourcePacks:["Tool+Belt+Retextured.zip"]
 lastServer:
 lang:fr_fr
 chatVisibility:0
@@ -89,13 +89,15 @@ key_of.key.zoom:46
 key_Change Caster Focus:33
 key_Misc Caster Toggle:34
 key_quark.keybind.dropoff:0
-key_quark.keybind.changeHotbar:40
+key_quark.keybind.changeHotbar:55
 key_quark.keybind.chestSort:0
 key_quark.keybind.chestDropoff:0
 key_quark.keybind.chestMerge:0
 key_quark.keybind.chestRestock:0
 key_quark.keybind.chestExtract:0
 key_quark.keybind.playerSort:0
+key_quark.keybind.lockBuilding:0
+key_quark.keybind.toggleAutojump:0
 key_quark.emote.no:0
 key_quark.emote.yes:0
 key_quark.emote.wave:0
@@ -114,10 +116,10 @@ key_quark.emote.dab:0
 key_quark.emote.jet:0
 key_quark.emote.exorcist:0
 key_quark.emote.zombie:0
-key_quark.keybind.toggleAutojump:0
-key_quark.keybind.lockBuilding:0
 key_keybind.baublesinventory:23:SHIFT
 key_key.betterfoliage.gui:66
+key_key.ftbutilities.nbt:49:ALT
+key_key.ftbutilities.trash:211
 key_key.sendpokemon:19
 key_key.nextpokemon:208
 key_key.previouspokemon:200
@@ -145,7 +147,7 @@ key_key.toggleTimeOfDayOverlay:0
 key_key.togglePotionParticles:66:CONTROL
 key_Difficulty Meter - Show:49
 key_Difficulty Meter - Show Always:49:SHIFT
-key_key.spartanweaponry.access_quiver:23
+key_key.spartanweaponry.access_quiver:0
 key_key.toastcontrol.clear:36
 key_key.pickup.item:0
 key_key.dismount:42
@@ -174,7 +176,7 @@ key_Refresh Animations:68
 key_key.toolbelt.open:40
 key_key.toolbelt.cycle.left:0
 key_key.toolbelt.cycle.right:0
-key_key.toolbelt.slot:47
+key_key.toolbelt.slot:0
 key_key.immersiveengineering.magnetEquip:0
 key_key.immersiveengineering.chemthrowerSwitch:0
 key_key.journeymap.zoom_in:13
@@ -199,12 +201,12 @@ key_keybind.railcraft.loco.slower:51:ALT
 key_keybind.railcraft.loco.mode:50:ALT
 key_keybind.railcraft.loco.whistle:49:ALT
 soundCategory_master:0.26821193
-soundCategory_music:0.0
+soundCategory_music:0.03521127
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0
 soundCategory_hostile:1.0
-soundCategory_neutral:0.5
+soundCategory_neutral:0.056338027
 soundCategory_player:1.0
 soundCategory_ambient:1.0
 soundCategory_voice:1.0

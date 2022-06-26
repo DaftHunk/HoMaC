@@ -230,10 +230,6 @@ General {
     berryTreeGrowthMultiplier=1
     # Which dimensions use both Gen 7 and Gen 8 features. Overrides other options that would affect this otherwise.
     bothGenDimensions=[
-        -1,
-        0,
-        1,
-        72,
         73
     ]
     # Détermine si les Pokémon sauvages qui ne sont pas en combat peuvent être blessés par des attaques physiques.
@@ -580,7 +576,7 @@ Spawning {
         # Pokédex 252-386
         Gen3=true
         # Pokédex 387-493
-        Gen4=false
+        Gen4=true
         # Pokédex 494-649
         Gen5=false
         # Pokédex 650-721
