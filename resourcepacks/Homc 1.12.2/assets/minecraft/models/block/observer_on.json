@@ -1,0 +1,7 @@
+{
+    "__comment": "JimStoneCraft - 2020",
+    "parent": "block/observer",
+    "textures": {
+        "back": "blocks/observer_back_lit"
+    }
+}

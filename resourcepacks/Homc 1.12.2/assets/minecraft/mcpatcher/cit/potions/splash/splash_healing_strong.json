@@ -1,0 +1,8 @@
+{
+    "__comment": "JimStoneCraft - 2021",
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "./splash_potion_overlay",
+        "layer1": "./splash_healing_strong"
+    }
+}

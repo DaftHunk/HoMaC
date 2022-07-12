@@ -1,0 +1,12 @@
+{
+    "__comment": "JimStoneCraft - 2021",
+    "variants": {
+        "normal": [
+            { "model": "oak_planks", "weight": 40 },
+            { "model": "oak_planks1", "weight": 15 },
+            { "model": "oak_planks2", "weight": 15 },
+            { "model": "oak_planks3", "weight": 15 },
+            { "model": "oak_planks4", "weight": 15 }
+        ]
+    }
+}

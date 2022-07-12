@@ -1,0 +1,13 @@
+{
+    "__comment": "JimStoneCraft - 2020",
+    "variants": {
+        "normal": [
+            { "model": "stone", "weight": 50 },
+            { "model": "stone1", "weight": 15 },
+            { "model": "stone2", "weight": 15 },
+            { "model": "stone3", "weight": 5 },
+            { "model": "stone4", "weight": 10 },
+            { "model": "stone5", "weight": 5 }
+        ]
+    }
+}

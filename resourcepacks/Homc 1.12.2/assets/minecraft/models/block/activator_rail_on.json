@@ -1,0 +1,1 @@
+{    "__comment": "Created by Filal",    "parent": "block/activator_rail",    "textures": {        "activator_rail": "blocks/custom_rail_activator_on"    }}

@@ -1,0 +1,19 @@
+{
+    "__comment": "JimStoneCraft - 2021",
+    "variants": {
+        "half=bottom": [
+            { "model": "half_slab_oak", "weight": 40 },
+            { "model": "half_slab_oak1", "weight": 15 },
+            { "model": "half_slab_oak2", "weight": 15 },
+            { "model": "half_slab_oak3", "weight": 15 },
+            { "model": "half_slab_oak4", "weight": 15 }
+        ],
+        "half=top": [
+            { "model": "upper_slab_oak", "weight": 40 },
+            { "model": "upper_slab_oak1", "weight": 15 },
+            { "model": "upper_slab_oak2", "weight": 15 },
+            { "model": "upper_slab_oak3", "weight": 15 },
+            { "model": "upper_slab_oak4", "weight": 15 }
+        ]
+    }
+}

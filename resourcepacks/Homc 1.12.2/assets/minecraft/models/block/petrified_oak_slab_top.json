@@ -1,0 +1,9 @@
+{
+    "__comment": "JimStoneCraft - 2020",
+    "parent": "block/upper_slab",
+    "textures": {
+        "bottom": "blocks/petrified_oak_planks",
+        "top": "blocks/petrified_oak_planks",
+        "side": "blocks/petrified_oak_planks"
+    }
+}

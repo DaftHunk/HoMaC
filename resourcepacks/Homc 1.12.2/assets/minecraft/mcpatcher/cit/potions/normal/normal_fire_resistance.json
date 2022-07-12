@@ -1,0 +1,8 @@
+{
+    "__comment": "JimStoneCraft - 2021",
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "./normal_potion_overlay",
+        "layer1": "./normal_fire_resistance"
+    }
+}

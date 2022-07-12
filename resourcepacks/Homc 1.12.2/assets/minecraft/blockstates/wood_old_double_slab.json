@@ -1,0 +1,19 @@
+{
+    "__comment": "JimStoneCraft - 2021",
+    "variants": {
+        "normal": [
+            { "model": "petrified_oak_planks", "weight": 40 },
+            { "model": "petrified_oak_planks1", "weight": 15 },
+            { "model": "petrified_oak_planks2", "weight": 15 },
+            { "model": "petrified_oak_planks3", "weight": 15 },
+            { "model": "petrified_oak_planks4", "weight": 15 }
+        ],
+        "all": [
+            { "model": "petrified_oak_planks", "weight": 40 },
+            { "model": "petrified_oak_planks1", "weight": 15 },
+            { "model": "petrified_oak_planks2", "weight": 15 },
+            { "model": "petrified_oak_planks3", "weight": 15 },
+            { "model": "petrified_oak_planks4", "weight": 15 }
+        ]
+    }
+}

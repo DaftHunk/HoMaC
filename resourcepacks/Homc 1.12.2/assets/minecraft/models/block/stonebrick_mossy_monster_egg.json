@@ -1,0 +1,9 @@
+{
+    "__comment": "JimStoneCraft - 2020",
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "blocks/stonebrick_mossy_monster_egg",
+        "top": "blocks/stonebrick_mossy_monster_egg_top",
+        "side": "blocks/stonebrick_mossy_monster_egg"
+    }
+}

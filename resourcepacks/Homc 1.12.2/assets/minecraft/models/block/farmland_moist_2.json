@@ -1,0 +1,11 @@
+{
+    "__comment": "JimStoneCraft - 2021",
+    "parent": "block/template_farmland",
+    "textures": {
+        "particle": "blocks/farmland_moist_2",
+        "side": "blocks/farmland_moist_side_2",
+        "end1": "blocks/farmland_end1_2",
+        "end2": "blocks/farmland_end2_2",
+        "top": "blocks/farmland_moist_2"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "__comment": "JimStoneCraft - 2020",
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "blocks/red_sandstone_smooth_bottom",
+        "top": "blocks/red_sandstone_smooth_top",
+        "side": "blocks/red_sandstone_smooth"
+    }
+}

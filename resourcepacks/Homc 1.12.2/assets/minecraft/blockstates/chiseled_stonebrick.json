@@ -1,0 +1,9 @@
+{
+    "__comment": "JimStoneCraft - 2021",
+    "variants": {
+        "normal": [
+            { "model": "stonebrick_chiseled" },
+            { "model": "stonebrick_chiseled1" }
+        ]
+    }
+}

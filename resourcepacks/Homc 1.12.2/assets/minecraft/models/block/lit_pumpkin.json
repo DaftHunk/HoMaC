@@ -1,0 +1,11 @@
+{
+    "__comment": "JimStoneCraft - 2020",
+    "parent": "block/custom_orientable",
+    "textures": {
+        "top": "blocks/pumpkin_top",
+        "bottom": "blocks/pumpkin_bottom",
+        "front": "blocks/pumpkin_face_on",
+        "side": "blocks/pumpkin_side",
+        "back": "blocks/pumpkin_side"
+    }
+}

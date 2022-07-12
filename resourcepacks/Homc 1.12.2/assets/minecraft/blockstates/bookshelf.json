@@ -1,0 +1,11 @@
+{
+    "__comment": "JimStoneCraft - 2021",
+    "variants": {
+        "normal": [
+            { "model": "bookshelf", "weight": 50 },
+            { "model": "bookshelf1", "weight": 20 },
+            { "model": "bookshelf2", "weight": 20 },
+            { "model": "bookshelf3", "weight": 10 }
+        ]
+    }
+}
