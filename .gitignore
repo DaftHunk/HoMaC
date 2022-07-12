@@ -32,7 +32,8 @@ caches/
 
 journeymap/
 
-resourcepacks/
+resourcepacks/*
+!resourcepacks/Homc 1.12.2/
 
 saves/
 
@@ -53,3 +54,5 @@ config.json
 HoMaC.zip
 
 config.bak.json
+
+notes/

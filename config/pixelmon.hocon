@@ -359,7 +359,7 @@ Graphics {
     # Distance à laquelle arrêter le rendu des textures émissives.
     emissiveTexturesDistance=32
     # Sets how far Pokémon names and levels can be seen from (client setting only). 1=Default, 2=Farther, 3=Far
-    namePlateRange=1
+    namePlateRange=3
     # Si "true", les effets d'attaques ne sont montrés qu'aux joueurs qui participent ou qui "regardent" le combat.
     onlyShowAttackEffectsToBattlers=true
     # Définir si le joueur peut contrôler la caméra pendant le combat ou non.
