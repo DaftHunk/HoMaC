@@ -269,7 +269,7 @@ General {
     # Le niveau maximal qu'un Pokémon peut avoir.
     maxLevel=100
     # Le nombre maximal de plantes autorisées dans un chunk. S'applique aux Noigrumes et aux Baies.
-    maximumPlants=32
+    maximumPlants=100
     # Le nombre de capacités qu'un Donneur de capacités aura.
     movesPerTutor=20
     # Autorise chaque joueur à prendre plusieurs photos du même Pokémon.
