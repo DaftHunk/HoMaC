@@ -1,4 +1,4 @@
-#Tue Jun 21 16:05:24 CEST 2022
+#Wed Jul 20 23:41:36 CEST 2022
 shaderPack=Sildur's+Vibrant+Shaders+v1.32+High.zip
 antialiasingLevel=0
 normalMapEnabled=true

@@ -4,19 +4,19 @@ mouseSensitivity:0.5
 fov:0.0
 gamma:0.0
 saturation:0.0
-renderDistance:16
+renderDistance:12
 guiScale:3
 particles:0
 bobView:false
 anaglyph3d:false
-maxFps:260
+maxFps:60
 fboEnable:true
 difficulty:2
 fancyGraphics:true
 ao:2
 renderClouds:false
-resourcePacks:["Homc 1.12.2.zip","Tool+Belt+Retextured.zip","ThePixelmonOST.zip"]
-incompatibleResourcePacks:["Tool+Belt+Retextured.zip"]
+resourcePacks:["Homc 1.12.2.zip"]
+incompatibleResourcePacks:[]
 lastServer:
 lang:fr_fr
 chatVisibility:0
@@ -39,7 +39,7 @@ chatHeightFocused:1.0
 chatHeightUnfocused:0.44366196
 chatScale:1.0
 chatWidth:1.0
-mipmapLevels:1
+mipmapLevels:0
 forceUnicodeFont:false
 reducedDebugInfo:false
 useNativeTransport:true
@@ -88,16 +88,6 @@ key_key.hotbar.9:10
 key_of.key.zoom:46
 key_Change Caster Focus:33
 key_Misc Caster Toggle:34
-key_quark.keybind.dropoff:0
-key_quark.keybind.changeHotbar:55
-key_quark.keybind.chestSort:0
-key_quark.keybind.chestDropoff:0
-key_quark.keybind.chestMerge:0
-key_quark.keybind.chestRestock:0
-key_quark.keybind.chestExtract:0
-key_quark.keybind.playerSort:0
-key_quark.keybind.lockBuilding:0
-key_quark.keybind.toggleAutojump:0
 key_quark.emote.no:0
 key_quark.emote.yes:0
 key_quark.emote.wave:0
@@ -116,10 +106,19 @@ key_quark.emote.dab:0
 key_quark.emote.jet:0
 key_quark.emote.exorcist:0
 key_quark.emote.zombie:0
+key_quark.keybind.toggleAutojump:0
+key_quark.keybind.dropoff:0
+key_quark.keybind.changeHotbar:55
+key_quark.keybind.chestSort:0
+key_quark.keybind.chestDropoff:0
+key_quark.keybind.chestMerge:0
+key_quark.keybind.chestRestock:0
+key_quark.keybind.chestExtract:0
+key_quark.keybind.playerSort:0
+key_quark.keybind.lockBuilding:0
 key_keybind.baublesinventory:23:SHIFT
 key_key.betterfoliage.gui:66
-key_key.ftbutilities.nbt:49:ALT
-key_key.ftbutilities.trash:211
+key_key.openNotes:49
 key_key.sendpokemon:19
 key_key.nextpokemon:208
 key_key.previouspokemon:200
@@ -135,11 +134,11 @@ key_key.nextexternalmove:48
 key_key.pokedex:23
 key_key.trainercard:22
 key_key.wiki:37
-key_key.pcsearch:0
+key_key.pcsearch:33:CONTROL
 key_key.pcrename:19
 key_key.pcwallpaper:17
 key_key.pixelmonoptions:25
-key_tcg.essence:39
+key_tcg.essence:316
 key_keybind.railcraft.cart.bed:208
 key_key.toggleFoVChanges:51:SHIFT
 key_key.reloadSoundSystem:66:SHIFT
@@ -152,6 +151,7 @@ key_key.toastcontrol.clear:36
 key_key.pickup.item:0
 key_key.dismount:42
 key_key.narrator:0
+key_smoothfont.key.guiOpen:199
 key_key.jei.toggleOverlay:24:CONTROL
 key_key.jei.focusSearch:33:CONTROL
 key_key.jei.toggleCheatMode:0
@@ -164,14 +164,13 @@ key_key.jei.nextPage:209
 key_key.jei.bookmark:30
 key_key.jei.toggleBookmarkOverlay:0
 key_key.astikorcarts.desc:30:CONTROL
-key_key.carry.desc:316
 key_waila.keybind.wailaconfig:82
 key_waila.keybind.wailadisplay:79
 key_waila.keybind.liquid:80
 key_waila.keybind.recipe:81
 key_waila.keybind.usage:75
 key_Open Backpack:48
-key_Mo' Bends Menu:34
+key_Mo' Bends Menu:76
 key_Refresh Animations:68
 key_key.toolbelt.open:40
 key_key.toolbelt.cycle.left:0
@@ -200,8 +199,8 @@ key_keybind.railcraft.loco.faster:52:ALT
 key_keybind.railcraft.loco.slower:51:ALT
 key_keybind.railcraft.loco.mode:50:ALT
 key_keybind.railcraft.loco.whistle:49:ALT
-soundCategory_master:0.26821193
-soundCategory_music:0.03521127
+soundCategory_master:0.34768212
+soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0
